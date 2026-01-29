@@ -1,4 +1,4 @@
-# Khối 2 – Toán Tập 1: Nội dung chi tiết
+# Khối 2 – Toán Tập 2: Nội dung chi tiết
 
 ## CHỦ ĐỀ 1: ÔN TẬP VÀ BỔ SUNG
 
@@ -114,7 +114,7 @@
 
 ---
 
-## TỔNG KẾT TẬP 1
+## TỔNG KẾT TẬP 2
 
 ### Yêu cầu đạt được:
 
