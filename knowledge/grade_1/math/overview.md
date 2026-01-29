@@ -1,8 +1,5 @@
 # Toán lớp 1 - Tập 1 (Kết nối tri thức với cuộc sống)
 
-**Nhà xuất bản Giáo dục Việt Nam**
-**Tác giả:** Hà Huy Khoái (Tổng Chủ biên), Lê Anh Vinh (Chủ biên), và các cộng sự.
-
 ---
 
 ## MỤC LỤC
@@ -39,10 +36,6 @@
 ---
 
 ## CHỦ ĐỀ 1: CÁC SỐ TỪ 0 ĐẾN 10
-
-### Tiết học đầu tiên
-
-_Làm quen với các nhân vật: Mai, Nam, Việt, Rô-bốt._
 
 ### Bài 1: Các số 0, 1, 2, 3, 4, 5
 
