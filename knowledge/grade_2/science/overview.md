@@ -1,71 +1,116 @@
-# Khối 2 – Khoa học tự nhiên Tập 1: Nội dung chi tiết
+CHỦ ĐỀ 1: GIA ĐÌNH
+Mục tiêu: Hiểu giá trị của lao động trong gia đình và thiết lập môi trường sống an toàn.
 
-## CHỦ ĐỀ 1: GIA ĐÌNH
+Tuần 1: Nghề nghiệp của người thân trong gia đình
 
-### Bài 1: Các thế hệ trong gia đình
+Khám phá: Tìm hiểu ý nghĩa của các ngành nghề khác nhau và đóng góp của người thân cho xã hội.
 
-**Khám phá:** Nhận biết gia đình hai thế hệ (bố mẹ, con cái) và gia đình ba thế hệ (ông bà, bố mẹ, con cái).
+Hoạt động: Phỏng vấn bố mẹ; Đóng vai giới thiệu "Nghề nghiệp tương lai".
 
-**Hoạt động:**
+Tuần 2: Phòng tránh ngộ độc khi ở nhà
 
-- Quan sát sơ đồ gia đình và xác định các thành viên thuộc thế hệ nào
-- Giới thiệu về các thành viên trong gia đình mình
+Khám phá: Nhận diện ký hiệu nguy hiểm trên chai lọ, hóa chất, thuốc và thực phẩm quá hạn.
 
----
+Hoạt động: Thảo luận cách cất giữ đồ dùng an toàn; Trò chơi "Ai tinh mắt" nhận biết thực phẩm hỏng.
 
-## CHỦ ĐỀ 4: THỰC VẬT VÀ ĐỘNG VẬT
+Tuần 3: Giữ gìn vệ sinh xung quanh nhà ở
 
-### Bài 14 & 15: Thực vật và Động vật sống ở đâu?
+Khám phá: Tại sao cần phát quang bụi rậm, khơi thông cống rãnh xung quanh nhà?
 
-**Khám phá:** Tìm hiểu về môi trường sống trên cạn (rừng, đồng cỏ, sa mạc) và dưới nước (ao, hồ, biển).
+Tuần 4: Ôn tập chủ đề Gia đình
 
-**Hoạt động:**
+CHỦ ĐỀ 2: TRƯỜNG HỌC
+Mục tiêu: Tham gia tích cực các hoạt động tập thể và xây dựng ý thức bảo vệ môi trường học đường.
 
-- Phân loại các loài thực vật và động vật theo môi trường sống
-- Thảo luận về những đặc điểm giúp chúng thích nghi với môi trường đó
+Tuần 5: Các sự kiện thường gặp ở trường
 
----
+Khám phá: Ý nghĩa của Ngày khai giảng, 20/11, Ngày hội đọc sách...
 
-## CHỦ ĐỀ 5: CON NGƯỜI VÀ SỨC KHỎE
+Hoạt động: Vẽ tranh chào mừng sự kiện; Kể lại kỉ niệm đáng nhớ nhất ở trường.
 
-### Bài 17: Cơ quan vận động
+Tuần 6: Giữ vệ sinh trường học
 
-**Khám phá:** Nhận diện bộ xương và hệ cơ trên cơ thể người.
+Khám phá: Trách nhiệm phân loại rác và giữ gìn cảnh quan chung.
 
-**Hoạt động:**
+* **Hoạt động:** Thực hành phân loại rác tại nguồn; Lao động tập thể chăm sóc bồn hoa lớp.
+Tuần 7: An toàn khi tham gia các hoạt động ở trường
 
-- Thực hành các động tác cử động tay, chân để cảm nhận sự hoạt động của xương và cơ
-- Thảo luận cách bảo vệ cơ quan vận động (tư thế ngồi học đúng, tập thể dục)
+Khám phá: Phòng tránh tai nạn khi vui chơi, tập thể dục và tham gia dã ngoại.
 
-### Bài 18: Cơ quan hô hấp
+Tuần 8: Ôn tập chủ đề Trường học
 
-**Khám phá:** Các bộ phận chính gồm: mũi, khí quản, phế quản và hai lá phổi.
+CHỦ ĐỀ 3: CỘNG ĐỒNG ĐỊA PHƯƠNG
+Mục tiêu: Hiểu về hoạt động kinh tế địa phương và kỹ năng tham gia giao thông an toàn.
 
-**Hoạt động:**
+Tuần 9: Hoạt động mua bán hàng hóa
 
-- Quan sát sơ đồ đường đi của không khí khi ta hít vào và thở ra
-- Tập hít thở đúng cách và giữ sạch mũi, họng
+Khám phá: Đặc điểm của chợ truyền thống, siêu thị và cửa hàng tiện lợi. Cách chọn hàng hóa và xem hạn sử dụng.
 
----
+Hoạt động: Sắm vai "Người đi chợ thông minh"; Kiểm tra nhãn mác thực phẩm.
 
-## CHỦ ĐỀ 6: TRÁI ĐẤT VÀ BẦU TRỜI
+Tuần 10: Thực hiện quy định khi tham gia giao thông
 
-### Bài 22: Các dạng địa hình trên Trái Đất
+Khám phá: Các loại biển báo (cấm, nguy hiểm, chỉ dẫn) và quy tắc an toàn xe máy/xe buýt.
 
-**Khám phá:** Nhận biết núi, đồi, đồng bằng, cao nguyên, sông, hồ, biển.
+Hoạt động: Thực hành đội mũ bảo hiểm; Thảo luận văn hóa khi đi xe buýt.
 
-**Hoạt động:**
+Tuần 11: Tìm hiểu về các di tích lịch sử - văn hóa địa phương
 
-- Quan sát tranh ảnh và mô tả đặc điểm của từng dạng địa hình
-- Chỉ trên bản đồ hoặc quả địa cầu vị trí của biển và đất liền
+Tuần 12: Ôn tập chủ đề Cộng đồng địa phương
 
----
+CHỦ ĐỀ 4: THỰC VẬT VÀ ĐỘNG VẬT
+Mục tiêu: Khám phá sự đa dạng của môi trường sống và ý thức bảo tồn thiên nhiên.
 
-## TỔNG KẾT TẬP 1
+Tuần 13: Môi trường sống của thực vật
 
-### Yêu cầu đạt được:
+Khám phá: Phân loại cây sống trên cạn (xương rồng, thông), dưới nước (sen, bèo) và môi trường hỗn hợp.
 
-- Nhận biết cơ bản về cấu trúc gia đình, cơ quan vận động, cơ quan hô hấp
-- Phân loại được các loài thực vật, động vật theo môi trường sống
-- Nhận diện các dạng địa hình cơ bản
-- Có ý thức bảo vệ sức khỏe cơ thể thông qua các hoạt động thể chất đúng cách
+Hoạt động: Sưu tầm ảnh thực vật; Phân loại cây theo môi trường sống.
+
+Tuần 14: Môi trường sống của động vật
+
+Khám phá: Động vật sống trong hang, tổ, dưới sâu hoặc trên tán cây.
+
+Hoạt động: Trò chơi "Tìm nhà cho các con vật"; Xem clip về thế giới động vật.
+
+Tuần 15: Bảo vệ môi trường sống của thực vật và động vật
+
+Hoạt động: Thảo luận về tác hại của ô nhiễm nguồn nước và phá rừng; Cam kết bảo vệ cây xanh.
+
+Tuần 16: Ôn tập chủ đề Thực vật và Động vật
+
+CHỦ ĐỀ 5: CON NGƯỜI VÀ SỨC KHỎE
+Mục tiêu: Hiểu về cấu tạo cơ thể và hình thành lối sống khoa học để phát triển thể chất.
+
+Tuần 17: Cơ quan vận động
+
+Khám phá: Cấu tạo xương và cơ. Tác hại của việc mang vác nặng và ngồi sai tư thế.
+
+* **Hoạt động:** Thực hành tư thế ngồi học đúng; Tập các động tác giúp phát triển chiều cao.
+Tuần 18: Cơ quan tiêu hóa
+
+Khám phá: Sơ đồ đường đi của thức ăn từ miệng đến ruột.
+
+* **Hoạt động:** Thảo luận "Tại sao không nên chạy nhảy sau khi ăn?"; Lập thực đơn đủ chất.
+Tuần 19: Cơ quan bài tiết nước tiểu
+
+Khám phá: Vai trò của thận và bàng quang. Tại sao cần uống đủ nước và không nhịn tiểu?
+
+CHỦ ĐỀ 6: TRÁI ĐẤT VÀ BẦU TRỜI
+Mục tiêu: Quan sát sự thay đổi của tự nhiên và ứng phó với biến đổi thời tiết.
+
+Tuần 20: Bầu trời ban ngày và ban đêm
+
+Khám phá: Sự khác nhau giữa Mặt Trời, Mặt Trăng và các vì sao.
+
+Tuần 21: Các mùa trong năm
+
+Khám phá: Đặc điểm Xuân (ấm áp), Hạ (nóng), Thu (mát), Đông (lạnh) và mùa mưa/khô ở miền Nam.
+
+Hoạt động: Lựa chọn trang phục theo mùa; Dự báo thời tiết vui nhộn.
+
+Tuần 22: Một số thiên tai thường gặp
+
+Khám phá: Nhận biết bão, lũ lụt, hạn hán và cách giữ an toàn khi có thiên tai.
+
+Tuần 23: Ôn tập và kiểm tra cuối năm

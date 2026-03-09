@@ -1,101 +1,87 @@
 CHỦ ĐỀ 1: QUÝ TRỌNG THỜI GIAN
+Mục tiêu: Nhận thức được thời gian là vô giá và hình thành kỹ năng quản lý thời gian khoa học.
+
 Bài 1: Quý trọng thời gian
-Khám phá – Kết nối: Nhận thức được giá trị của thời gian và vì sao phải sử dụng thời gian hợp lý.
 
-Hoạt động:
+Khám phá: Tại sao "Thời gian là vàng bạc"? Hậu quả của việc lãng phí thời gian.
 
-Quan sát tranh và thảo luận về việc sử dụng thời gian của các bạn nhỏ.
+Hoạt động: * Quan sát tranh và thảo luận về thói quen "việc hôm nay chớ để ngày mai".
 
-Chia sẻ về những việc em đã làm được khi biết tận dụng thời gian.
+Thực hành: Lập bảng Thời gian biểu cá nhân (Sáng - Trưa - Chiều - Tối).
 
-Thực hành lập Thời gian biểu hàng ngày của bản thân.
+CHỦ ĐỀ 2: NHẬN LỖI VÀ SỬA LỖI
+Mục tiêu: Xây dựng lòng dũng cảm, tính trung thực và ý thức trách nhiệm trước hành vi của bản thân.
 
-CHỦ DỀ 2: NHẬN LỖI VÀ SỬA LỖI
 Bài 2: Nhận lỗi và sửa lỗi
-Khám phá – Kết nối: Hiểu được ý nghĩa của việc dũng cảm nhận lỗi và quyết tâm sửa chữa sai lầm.
 
-Hoạt động:
+Khám phá: Ý nghĩa của lời xin lỗi chân thành và hành động khắc phục hậu quả.
 
-Đọc truyện/Xem clip về tình huống mắc lỗi và cách xử lý.
+Hoạt động: * Sắm vai: Cách xin lỗi khi vô ý làm hỏng đồ dùng của bạn hoặc nói dối bố mẹ.
 
-Sắm vai thực hành lời xin lỗi chân thành trong các tình huống giả định.
-
-Thảo luận: "Vì sao nhận lỗi lại giúp em tiến bộ hơn?".
+Thảo luận: "Xử lý thế nào khi bạn mắc lỗi nhưng không dám nhận?".
 
 CHỦ ĐỀ 3: BẢO QUẢN ĐỒ DÙNG CÁ NHÂN VÀ GIA ĐÌNH
+Mục tiêu: Hình thành tính ngăn nắp, tiết kiệm và lòng biết ơn đối với tài sản.
+
 Bài 3: Bảo quản đồ dùng cá nhân
-Khám phá – Kết nối: Hình thành thói quen giữ gìn, sắp xếp đồ dùng cá nhân bền đẹp, ngăn nắp.
 
-Hoạt động:
-
-Kiểm tra lại đồ dùng học tập, đồ chơi và phân loại đồ cần sửa sang.
-
-Thực hành vệ sinh cặp sách, giày dép hoặc bọc lại sách vở.
+Hoạt động: Thực hành bọc vở, sắp xếp góc học tập; Phân loại đồ dùng theo công dụng để dễ tìm kiếm.
 
 Bài 4: Bảo quản đồ dùng gia đình
-Khám phá – Kết nối: Trách nhiệm của bản thân trong việc giữ gìn tài sản chung của gia đình.
 
-Hoạt động:
+Khám phá: Đồ dùng gia đình là tài sản chung, cần sự gìn giữ của mọi thành viên.
 
-Thảo luận về cách sử dụng bền lâu các thiết bị điện, đồ gỗ trong nhà.
+Hoạt động: Thảo luận quy tắc "Của bền tại người"; Nhắc nhở nhau tắt thiết bị điện khi không sử dụng.
 
-Nhắc nhở nhau tắt điện khi ra khỏi phòng và cất đồ dùng đúng nơi quy định.
+CHỦ ĐỀ 4: KÍNH TRỌNG THẦY CÔ VÀ YÊU QUÝ BẠN BÈ
+Mục tiêu: Nuôi dưỡng tình cảm nhân văn trong môi trường học đường.
 
-CHỦ ĐỀ 4: THỂ HIỆN SỰ KÍNH TRỌNG THẦY GIÁO, CÔ GIÁO VÀ YÊU QUÝ BẠN BÈ
 Bài 5: Kính trọng thầy giáo, cô giáo
-Khám phá – Kết nối: Thể hiện lòng biết ơn đối với những người dạy dỗ mình qua thái độ và hành động.
 
-Hoạt động:
+Khám phá: Thầy cô là những người lái đò thầm lặng đưa em đến bến bờ tri thức.
 
-Thực hành lời chào, lời cảm ơn và cách đưa/nhận vật dụng bằng hai tay với thầy cô.
-
-Làm một món quà nhỏ hoặc viết bưu thiếp tri ân thầy cô.
+Hoạt động: Thực hành văn hóa chào hỏi; Viết "Lời nhắn nhủ yêu thương" gửi đến thầy cô.
 
 Bài 6: Yêu quý bạn bè
-Khám phá – Kết nối: Xây dựng tình bạn trong sáng, biết chia sẻ và giúp đỡ bạn lúc khó khăn.
 
-Hoạt động:
+Khám phá: Bạn bè là người đồng hành, chia ngọt sẻ bùi.
 
-Chia sẻ về một người bạn thân và những kỷ niệm đáng nhớ.
-
-Xử lý tình huống: An ủi khi bạn buồn hoặc chúc mừng khi bạn có niềm vui.
+Hoạt động: Xây dựng "Cây tình bạn" ghi lại những hành động tốt của bạn dành cho mình; Thực hành an ủi, chia sẻ khi bạn gặp khó khăn.
 
 CHỦ ĐỀ 5: QUÝ TRỌNG LAO ĐỘNG
+Mục tiêu: Tôn trọng mọi nghề nghiệp và trân quý thành quả lao động của bản thân và người khác.
+
 Bài 7: Quý trọng lao động
-Khám phá – Kết nối: Hiểu được giá trị của các sản phẩm lao động và tôn trọng người lao động quanh ta.
 
-Hoạt động:
+Khám phá: Mọi nghề nghiệp chân chính đều cao quý. Giá trị của bát cơm, tấm áo từ sức lao động.
 
-Tìm hiểu về các nghề nghiệp khác nhau (bác sĩ, công nhân, nông dân...).
-
-Thực hành tiết kiệm sản phẩm lao động (không lãng phí đồ ăn, giữ gìn quần áo).
+Hoạt động: Đóng vai các ngành nghề; Cam kết không lãng phí đồ ăn tại căng tin trường.
 
 CHỦ ĐỀ 6: GÌN GIỮ CẢNH QUAN THIÊN NHIÊN
+Mục tiêu: Xây dựng lối sống xanh và trách nhiệm bảo vệ môi trường sống.
+
 Bài 8: Gìn giữ cảnh quan thiên nhiên
-Khám phá – Kết nối: Ý thức bảo vệ môi trường, không xả rác và chăm sóc cây xanh.
 
-Hoạt động:
+Khám phá: Vẻ đẹp của quê hương và tác hại của việc hủy hoại cảnh quan.
 
-Tham gia các hoạt động vệ sinh trường lớp, chăm sóc bồn hoa.
-
-Vẽ tranh cổ động về việc bảo vệ cảnh quan nơi em sinh sống.
+Hoạt động: Tham gia "Ngày chủ nhật xanh" tại trường; Thiết kế biển báo "Vui lòng không ngắt hoa" từ vật liệu tái chế.
 
 CHỦ ĐỀ 7: TUÂN THỦ QUY ĐỊNH NƠI CÔNG CỘNG
+Mục tiêu: Xây dựng nếp sống văn minh, lịch sự ở nơi công cộng.
+
 Bài 9: Tuân thủ quy định nơi công cộng
-Khám phá – Kết nối: Thực hiện các quy tắc ứng xử văn minh tại công viên, bảo tàng, rạp chiếu phim.
 
-Hoạt động:
+Khám phá: Tại sao cần xếp hàng? Tại sao cần giữ im lặng trong bệnh viện/thư viện?
 
-Thực hành xếp hàng chờ đợi đến lượt.
-
-Thảo luận về việc giữ trật tự và không làm ảnh hưởng đến người xung quanh.
+Hoạt động: Trò chơi giả lập xếp hàng mua vé xem phim; Thảo luận về văn hóa ứng xử trên xe buýt.
 
 CHỦ ĐỀ 8: PHÒNG TRÁNH TAI NẠN, THƯƠNG TÍCH
+Mục tiêu: Trang bị kỹ năng sinh tồn và tìm kiếm sự trợ giúp trong tình huống khẩn cấp.
+
 Bài 10: Tìm kiếm sự hỗ trợ khi ở nhà, ở trường
-Khám phá – Kết nối: Biết cách tìm người giúp đỡ khi gặp tình huống nguy hiểm hoặc khẩn cấp.
 
-Hoạt động:
+Khám phá: Nhận diện tình huống nguy hiểm (cháy nổ, người lạ xâm hại, tai nạn).
 
-Ghi nhớ và thực hành gọi các số điện thoại cứu hộ (113, 114, 115).
+Hoạt động: * Ghi nhớ các số điện thoại khẩn cấp: 113 (Công an), 114 (Cứu hỏa), 115 (Cấp cứu).
 
-Sắm vai tình huống: Bị lạc đường hoặc gặp người lạ có ý đồ xấu.
+Thực hành kỹ năng thoát hiểm khi gặp hỏa hoạn hoặc bị lạc ở nơi đông người.

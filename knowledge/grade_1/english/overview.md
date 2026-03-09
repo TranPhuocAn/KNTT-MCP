@@ -1,37 +1,117 @@
-# Khối 1 – Tiếng Anh: Tổng quan
+UNIT 1: IN THE SCHOOL PLAYGROUND
+Phonics: Letter Bb /b/
 
-## Unit 1 – In the school playground
+Vocabulary: bill, book, bike, ball
 
-- **Phonics/Vocabulary:** Letter Bb: bill, book, bike, ball
+Sentence Pattern: Hi, I'm (Bill). / Ba-ba-ba, Ball.
 
-## Unit 2 – In the dining room
+UNIT 2: IN THE DINING ROOM
+Phonics: Letter Cc /k/
 
-- **Phonics/Vocabulary:** Letter Cc: cake, car, cup, cat
+Vocabulary: cake, car, cup, cat
 
-## Unit 3 – At the street market
+Sentence Pattern: I have a (cake). / C-c-c, Car.
 
-- **Phonics/Vocabulary:** Letter Aa: apple, ant, bag, cat
+UNIT 3: AT THE STREET MARKET
+Phonics: Letter Aa /æ/
 
-## Unit 4 – In the bedroom
+Vocabulary: apple, ant, bag, cat
 
-- **Phonics/Vocabulary:** Letter Dd: duck, desk, doll, dog
+Sentence Pattern: Is it an (apple)? - Yes, it is. / No, it isn't.
 
-## Unit 5 – At the fish and chip shop
+UNIT 4: IN THE BEDROOM
+Phonics: Letter Dd /d/
 
-- **Phonics/Vocabulary:** Letter Ff: fish, fan, fox, flag
+Vocabulary: duck, desk, doll, dog
 
-## Unit 6 – In the classroom
+Sentence Pattern: This is my (desk).
 
-- **Phonics/Vocabulary:** Letter Gg: girl, gate, garden, goat
+UNIT 5: AT THE FISH AND CHIP SHOP
+Phonics: Letter Ff /f/
 
-## Unit 7 – In the kitchen
+Vocabulary: fish, fan, fox, flag
 
-- **Phonics/Vocabulary:** Letter Hh: hair, hand, horse, hippo
+Sentence Pattern: He/She has a (fan).
 
-## Unit 8 – In the park
+UNIT 6: IN THE CLASSROOM
+Phonics: Letter Gg /g/
 
-- **Phonics/Vocabulary:** Letter Ii: ink, insect, igloo, iguana
+Vocabulary: girl, gate, garden, goat
 
-## Review 1 – Units 1 - 8
+Sentence Pattern: There is a (gate) in the (garden).
 
-- **General review of sounds and words**
+UNIT 7: IN THE KITCHEN
+Phonics: Letter Hh /h/
+
+Vocabulary: hair, hand, horse, hippo
+
+Sentence Pattern: Touch your (hair/hand).
+
+UNIT 8: IN THE PARK
+Phonics: Letter Ii /ɪ/
+
+Vocabulary: ink, insect, igloo, iguana
+
+Sentence Pattern: Is there an (insect)? - Yes, there is.
+
+REVIEW 1 (Units 1 - 8)
+Skills: Listen and tick, Read and match, Game "Looking for letters".
+
+UNIT 9: IN THE SHOP
+Phonics: Letter Jj /dʒ/
+
+Vocabulary: jam, jelly, juice, jacket
+
+Sentence Pattern: I like (jam/juice).
+
+UNIT 10: AT THE ZOO
+Phonics: Letter Kk /k/
+
+Vocabulary: kite, kitten, king, kangaroo
+
+Sentence Pattern: Look at the (kitten).
+
+UNIT 11: AT THE BIRTHDAY PARTY
+Phonics: Letter Ll /l/
+
+Vocabulary: lemon, leaf, lucy, lolly
+
+Sentence Pattern: I have a (lemon).
+
+UNIT 12: AT THE LAKESIDE
+Phonics: Letter Mm /m/
+
+Vocabulary: milk, monkey, mouse, moon
+
+Sentence Pattern: The (monkey) is in the tree.
+
+UNIT 13: IN THE SCHOOL CANTEEN
+Phonics: Letter Nn /n/
+
+Vocabulary: noodles, nuts, nine, nose
+
+Sentence Pattern: I'm eating (noodles).
+
+UNIT 14: IN THE TOY SHOP
+Phonics: Letter Oo /ɒ/
+
+Vocabulary: orange, ox, olive, ostrich
+
+Sentence Pattern: There's an (orange) on the table.
+
+UNIT 15: AT THE FOOTBALL MATCH
+Phonics: Letter Pp /p/
+
+Vocabulary: popcorn, pasta, pizza, paul
+
+Sentence Pattern: Would you like some (pizza)?
+
+UNIT 16: AT THE CAMPSITE
+Phonics: Letter Qq /kw/
+
+Vocabulary: question, quilt, queen, quiz
+
+Sentence Pattern: I have a (question).
+
+REVIEW 2 (Units 9 - 16)
+Skills: Story time, Song "The Alphabet song", Self-check.

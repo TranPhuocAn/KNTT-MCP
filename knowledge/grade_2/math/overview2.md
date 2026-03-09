@@ -1,124 +1,68 @@
-# Khối 2 – Toán Tập 2: Nội dung chi tiết
+CHỦ ĐỀ 7: PHÉP NHÂN, PHÉP CHIA
 
-## CHỦ ĐỀ 1: ÔN TẬP VÀ BỔ SUNG
+Bài 40: Phép nhân
+Nội dung chính:
+Khái niệm: Phép nhân là cách viết gọn của tổng các số hạng bằng nhau.
+Thành phần: Thừa số – Thừa số – Tích.
+Ví dụ: $2 + 2 + 2 = 2 \times 3 = 6$.
 
-### Bài 1: Ôn tập các số đến 100
+Bài 42: Bảng nhân 2 và Bảng nhân 5Nội dung chính:
+Học thuộc lòng bảng nhân 2 (tăng dần 2 đơn vị) và bảng nhân 5 (tăng dần 5 đơn vị).
+Ứng dụng tính nhẩm nhanh trong các bài toán thực tế (ví dụ: số đôi đũa, số ngón tay).
 
-**Nội dung chính:**
+Bài 45: Phép chia
+Nội dung chính:
+Khái niệm: Phép chia là phép tính ngược của phép nhân. Từ một phép nhân, ta có thể viết được hai phép chia tương ứng.
+Thành phần: Số bị chia – Số chia – Thương.
 
-- Nhận biết số chục, số đơn vị
-- So sánh và thứ tự các số trong phạm vi 100
-- Số hạng - Tổng; Số bị trừ - Số trừ - Hiệu
+Bài 47: Bảng chia 2 và Bảng chia 5
+Nội dung chính:
+Dựa vào bảng nhân để suy ra bảng chia tương ứng.
+Ví dụ: Vì $5 \times 4 = 20$ nên $20 : 5 = 4$.
 
-### Bài 5: Ôn tập phép cộng, phép trừ không nhớ trong phạm vi 100
+CHỦ ĐỀ 8: CÁC SỐ ĐẾN 1000
 
-**Nội dung chính:**
+Bài 51: Đơn vị, Chục, Trăm, Nghìn
+Nội dung chính:
+Nhận biết cấu tạo số: $10 \text{ đơn vị} = 1 \text{ chục}$; $10 \text{ chục} = 1 \text{ trăm}$; $10 \text{ trăm} = 1 \text{ nghìn}$.
+Cách đọc và viết các số có 3 chữ số.
 
-- Đặt tính rồi tính (thẳng cột hàng đơn vị, hàng chục)
-- Giải bài toán về thêm, bớt một số đơn vị
+Bài 54: So sánh các số có ba chữ số
+Nội dung chính:
+So sánh từ hàng cao nhất (hàng trăm), nếu bằng nhau thì so sánh hàng chục, sau cùng là hàng đơn vị.
+Sắp xếp thứ tự các số từ bé đến lớn và ngược lại.
 
----
+CHỦ ĐỀ 9: ĐỘ DÀI VÀ KHỐI LƯỢNG
 
-## CHỦ ĐỀ 2: PHÉP CỘNG, PHÉP TRỪ QUA 10 (PHẠM VI 20)
+Bài 58: Mét (m), Kilômét (km), Milimét (mm)
+Nội dung chính:
+Làm quen với các đơn vị đo mới và mối quan hệ giữa chúng: $1 \text{ m} = 100 \text{ cm}$$1 \text{ km} = 1000 \text{ m}$
+Ước lượng độ dài các vật dụng trong đời sống.
 
-### Bài 7: Phép cộng qua 10 trong phạm vi 20
+Bài 60: Khối lượng: Kilôgam (kg)
+Nội dung chính:
+Cách sử dụng cân đồng hồ và cân đĩa.
+Thực hiện phép tính cộng, trừ với đơn vị kg.
 
-**Nội dung chính:**
+CHỦ ĐỀ 10: PHÉP CỘNG, PHÉP TRỪ TRONG PHẠM VI 1000
 
-- Cách tính bằng phương pháp "tách số để tròn chục" hoặc đếm thêm
-- Ví dụ: $ 9 + 5 = 9 + 1 + 4 = 10 + 4 = 14 $
+Bài 62: Phép cộng không nhớ trong phạm vi 1000
+Nội dung chính:
+Đặt tính thẳng hàng: đơn vị thẳng đơn vị, chục thẳng chục, trăm thẳng trăm.
+Tính từ phải sang trái.
 
-### Bài 11: Phép trừ qua 10 trong phạm vi 20
+Bài 65: Phép trừ không nhớ trong phạm vi 1000
+Nội dung chính:
+Tương tự phép cộng: trừ lần lượt từ hàng đơn vị đến hàng trăm.
+Ví dụ: $456 - 123 = 333$.
+CHỦ ĐỀ 11: LÀM QUEN VỚI YẾU TỐ THỐNG KÊ VÀ XÁC SUẤT
 
-**Nội dung chính:**
+Bài 67: Thu thập, phân loại, kiểm đếm
+Nội dung chính:
+Biết cách đếm số lượng vật phẩm và ghi chép lại theo từng nhóm.
+Đọc số liệu từ bảng thống kê đơn giản.
 
-- Cách tính bằng phương pháp "trừ để tròn chục" hoặc đếm lùi
-- Ví dụ: $ 12 - 5 = 12 - 2 - 3 = 10 - 3 = 7 $
-
----
-
-## CHỦ ĐỀ 3: LÀM QUEN VỚI KHỐI TRỤ, KHỐI CẦU
-
-### Bài 14: Khối trụ, khối cầu
-
-**Nội dung chính:**
-
-**Khối trụ:**
-
-- Có hai mặt đáy là hình tròn bằng nhau
-- Mặt xung quanh cong
-- Ví dụ: hộp sữa, ống cống
-
-**Khối cầu:**
-
-- Tròn đều về mọi phía
-- Ví dụ: quả bóng, viên bi
-
----
-
-## CHỦ ĐỀ 4: PHÉP CỘNG, PHÉP TRỪ CÓ NHỚ (PHẠM VI 100)
-
-### Bài 16: Phép cộng có nhớ trong phạm vi 100
-
-**Nội dung chính:**
-
-- Thực hiện phép cộng hàng đơn vị trước, nếu kết quả $ \ge 10 $ thì nhớ 1 sang hàng chục
-
-**Ví dụ:** $ 38 + 25 $
-
-- $ 8 + 5 = 13 $, viết 3 nhớ 1
-- $ 3 + 2 = 5 $, thêm 1 là 6, viết 6
-- Kết quả: $ 63 $
-
-### Bài 19: Phép trừ có nhớ trong phạm vi 100
-
-**Nội dung chính:**
-
-- Khi hàng đơn vị của số bị trừ nhỏ hơn số trừ, ta "mượn" 1 chục ở hàng chục
-
-**Ví dụ:** $ 52 - 27 $
-
-- 2 không trừ được 7, lấy $ 12 - 7 = 5 $, viết 5 nhớ 1 vào số trừ hàng chục
-- $ 5 - (2 + 1) = 2 $, viết 2
-- Kết quả: $ 25 $
-
----
-
-## CHỦ ĐỀ 5: LÀM QUEN VỚI HÌNH PHẲNG
-
-### Bài 23: Đường thẳng, đường cong, đường gấp khúc
-
-**Nội dung chính:**
-
-- Nhận diện đoạn thẳng và đường thẳng (kéo dài vô tận)
-- Tính độ dài đường gấp khúc bằng tổng độ dài các đoạn thẳng thành phần
-
----
-
-## CHỦ ĐỀ 6: THỜI GIAN
-
-### Bài 27: Ngày - Giờ, Giờ - Phút
-
-**Nội dung chính:**
-
-- Làm quen với mặt đồng hồ: Kim ngắn chỉ giờ, kim dài chỉ phút
-- Nhận biết 1 giờ có 60 phút
-- Xem giờ đúng và giờ rưỡi
-
-### Bài 28: Ngày - Tháng
-
-**Nội dung chính:**
-
-- Xem tờ lịch tháng để biết số ngày trong tháng
-- Nhận biết thứ mấy trong tuần
-
----
-
-## TỔNG KẾT TẬP 2
-
-### Yêu cầu đạt được:
-
-- Thành thạo phép cộng, phép trừ có nhớ trong phạm vi 100
-- Nhận diện các khối hình cơ bản (trụ, cầu) và các đường (thẳng, cong, gấp khúc)
-- Biết xem giờ và ngày tháng cơ bản
-- Giải quyết được các bài toán đơn giản liên quan đến phép cộng, trừ
+Bài 68: Chắc chắn, Có thể, Không thể
+Nội dung chính:
+Làm quen với các khả năng xảy ra của một sự việc (Xác suất trực quan).
+Ví dụ: Nhắm mắt lấy một viên bi đỏ trong hộp toàn bi xanh là "Không thể".

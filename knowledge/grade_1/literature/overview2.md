@@ -1,129 +1,89 @@
-# Khối 1 – Tiếng Việt Tập 2: Chi tiết các bài đọc
+Chào bạn, đây là bản hoàn thiện và chi tiết nhất cho môn Tiếng Việt lớp 1 – Tập 2 (Bộ Kết nối tri thức với cuộc sống). Mình đã bổ sung đầy đủ các bài đọc còn thiếu trong các hệ thống chủ điểm và sắp xếp lại để bạn có một bản overview.md chuẩn chỉnh, sẵn sàng cho việc lưu trữ và tra cứu.
 
-## CHỦ ĐIỂM 1: TÔI VÀ CÁC BẠN
+Grade 1 – Vietnamese (Volume 2): Full Curriculum Overview
+CHỦ ĐIỂM 1: TÔI VÀ CÁC BẠN
+Mục tiêu: Giúp học sinh làm quen với môi trường tập thể, biết chia sẻ và trân trọng tình bạn.
 
-### Bài 1: Tôi là học sinh lớp 1
+Bài 1: Tôi là học sinh lớp 1 (Văn bản: Cảm xúc tự hào, niềm vui khi có trường mới, bạn mới).
 
-Văn bản kể về cảm xúc tự hào, niềm vui khi trở thành học sinh lớp 1, có trường mới, bạn mới.
+Bài 2: Đôi tai xấu xí (Truyện: Bài học về sự tự tin và giá trị riêng của mỗi người qua đôi tai thỏ).
 
-### Bài 2: Đôi tai xấu xí
+Bài 3: Bạn của gió (Thơ: Hình ảnh gió đồng hành cùng lá, thuyền và diều).
 
-Truyện kể về chú Thỏ có đôi tai dài bị bạn bè chê, nhưng nhờ đôi tai đó Thỏ đã nghe thấy tiếng kêu cứu và giúp các bạn thoát nạn.
+Bài 4: Giải thưởng tình bạn (Truyện: Nai con dừng lại giúp đỡ bạn bị ngã trong cuộc thi chạy).
 
-### Bài 3: Bạn của gió
+Ôn tập & Đọc mở rộng: Củng cố kỹ năng đọc trơn và tìm hiểu các câu chuyện về tình bạn.
 
-Bài thơ về sự hiện diện của gió qua các hình ảnh: lá bay, thuyền chạy, diều bay.
+CHỦ ĐIỂM 2: MÁI ẤM GIA ĐÌNH
+Mục tiêu: Bồi đắp tình cảm yêu thương, sự gắn kết giữa các thành viên trong nhà.
 
-### Bài 4: Giải thưởng tình bạn
+Bài 1: Nụ hôn trên bàn tay (Truyện: Mẹ tiếp thêm sức mạnh cho bé khi đến trường bằng "bí mật" trên bàn tay).
 
-Câu chuyện về cuộc thi chạy của các loài thú và hành động cao đẹp của bạn Nai khi dừng lại giúp đỡ bạn bị ngã.
+Bài 2: Làm anh (Thơ: Dạy trẻ cách nhường nhịn, dỗ dành và yêu thương em nhỏ).
 
----
+Bài 3: Những cái tên (Thơ: Mỗi cái tên đều mang ý nghĩa và tình yêu của cha mẹ dành cho con).
 
-## CHỦ ĐIỂM 2: MÁI ẤM GIA ĐÌNH
+Bài 4: Cô gà mái khoang (Văn bản: Sự tận tụy, chăm chỉ của gà mẹ bảo vệ đàn con).
 
-### Bài 1: Nụ hôn trên bàn tay
+Ôn tập & Đọc mở rộng: Viết về người thân và đọc các bài thơ về gia đình.
 
-Chuyện về mẹ hôn lên bàn tay bé trước khi bé đến trường để bé luôn cảm thấy có mẹ bên cạnh.
+CHỦ ĐIỂM 3: MÁI TRƯỜNG THÂN YÊU
+Mục tiêu: Tăng cường sự gắn bó với thầy cô, bạn bè và thói quen học tập tích cực.
 
-### Bài 2: Làm anh
+Bài 1: Giờ ra chơi (Thơ: Cảnh nhộn nhịp đá cầu, nhảy dây dưới sân trường).
 
-Bài thơ dạy trẻ cách nhường nhịn, dỗ dành và yêu thương em bé.
+Bài 2: Mèo con đi học (Thơ: Câu chuyện hóm hỉnh về chú mèo lười nhưng cuối cùng vẫn chăm chỉ đến lớp).
 
-### Bài 3: Những cái tên
+Bài 3: Ngôi trường hạnh phúc (Văn bản: Tả ngôi trường nơi tràn ngập tiếng cười và sự yêu thương).
 
-Bài thơ nói về ý nghĩa của tên gọi mà cha mẹ đặt cho, nhắc nhở trẻ trân trọng tên mình.
+Bài 4: Chuyện ở lớp (Thơ: Bạn nhỏ háo hức kể cho mẹ nghe những điều hay lẽ phải học được ở trường).
 
-### Bài 4: Cô gà mái khoang
+Ôn tập & Đọc mở rộng: Thực hành viết về một hoạt động thú vị ở trường.
 
-Bài đọc về sự chăm chỉ và tình yêu thương của gà mẹ dành cho đàn con.
+CHỦ ĐIỂM 4: THIÊN NHIÊN QUANH TA
+Mục tiêu: Mở rộng vốn hiểu biết về thế giới động thực vật và ý thức bảo vệ môi trường.
 
----
+Bài 1: Chuyện của vàng anh (Truyện: Vàng anh mang tiếng hót làm đẹp cho đời).
 
-## CHỦ ĐIỂM 3: MÁI TRƯỜNG THÂN YÊU
+Bài 2: Hải âu (Văn bản: Giới thiệu loài chim "hoa tiêu" của những thủy thủ đi biển).
 
-### Bài 1: Giờ ra chơi
+Bài 3: Loài chim của biển cả (Khám phá: Những đặc điểm sinh tồn kỳ thú của các loài chim biển).
 
-Bài thơ tả cảnh nhộn nhịp, các trò chơi như đá cầu, nhảy dây trong sân trường.
+Bài 4: Hoa cúc áo (Truyện: Vẻ đẹp giản dị và sức sống mãnh liệt của loài hoa dại).
 
-### Bài 2: Mèo con đi học
+Bài 5: Cây bàng (Văn bản: Sự thay đổi kỳ diệu của lá bàng qua bốn mùa Xuân - Hạ - Thu - Đông).
 
-Bài thơ vui nhộn về chú mèo tìm cớ nghỉ học nhưng cuối cùng vẫn phải đến trường.
+Ôn tập & Đọc mở rộng: Quan sát và mô tả vẻ đẹp của thiên nhiên quanh em.
 
-### Bài 3: Ngôi trường hạnh phúc
+CHỦ ĐIỂM 5: ĐẤT NƯỚC VÀ CON NGƯỜI
+Mục tiêu: Khơi gợi lòng tự hào dân tộc qua các di tích lịch sử và danh lam thắng cảnh.
 
-Văn bản tả về một ngôi trường nơi thầy cô yêu thương và học sinh luôn vui vẻ.
+Bài 1: Chuyện của hồ Gươm (Lịch sử: Sự tích Rùa Vàng đòi gươm và vẻ đẹp cổ kính của Hà Nội).
 
-### Bài 4: Chuyện ở lớp
+Bài 2: Tre ngà (Truyền thuyết: Câu chuyện Thánh Gióng dùng tre đánh đuổi giặc ngoại xâm).
 
-Bài thơ về việc bạn nhỏ kể cho mẹ nghe những chuyện diễn ra ở lớp học.
+Bài 3: Cây đa Tân Trào (Lịch sử: Di tích cách mạng gắn liền với những trang sử vẻ vang của đất nước).
 
----
+Bài 4: Ruộng bậc thang ở Sa Pa (Địa lý: Vẻ đẹp hùng vĩ của những "nấc thang lên thiên đường" vùng cao).
 
-## CHỦ ĐIỂM 4: THIÊN NHIÊN QUANH TA
+Bài 5: Nhớ ơn (Ca dao: Lòng biết ơn những người đã có công dựng nước và giữ nước).
 
-### Bài 1: Chuyện của vàng anh
+Ôn tập tổng kết cuối năm: Kiểm tra kỹ năng đọc, viết và nghe - nói toàn diện.
 
-Câu chuyện về chim vàng anh hót líu lo chào ngày mới.
+CÁC KỸ NĂNG & HOẠT ĐỘNG BỔ TRỢ TỔNG HỢP
+1. Kỹ năng Viết
+Luyện viết đoạn: Viết từ 3-5 câu về các chủ đề: "Kể về một người bạn mới", "Gia đình em", "Con vật em yêu".
 
-### Bài 2: Hải âu
+Chính tả: Nghe - viết các đoạn thơ, đoạn văn có độ dài từ 30-50 chữ.
 
-Giới thiệu về loài chim hải âu - bạn đồng hành của những người đi biển.
+Quy tắc chính tả: Củng cố cách dùng c/k, g/gh, ng/ngh và dấu câu.
 
-### Bài 3: Loài chim của biển cả
+2. Góc Sáng Tạo
+Thiết kế: Làm bưu thiếp tặng mẹ (8/3), vẽ tranh về ngôi trường mơ ước.
 
-Tiếp tục tìm hiểu về đời sống của các loài chim biển.
+Sưu tầm: Tìm đọc và dán các bài thơ về Bác Hồ hoặc quê hương đất nước.
 
-### Bài 4: Hoa cúc áo
+3. Nói và Nghe
+Sắm vai: Đóng vai nhân vật trong các câu chuyện đã đọc để luyện biểu cảm.
 
-Câu chuyện nhẹ nhàng về vẻ đẹp của những loài hoa dại.
-
-### Bài 5: Cây bàng
-
-Bài thơ tả cây bàng thay đổi màu lá qua các mùa xuân, hạ, thu, đông.
-
----
-
-## CHỦ ĐIỂM 5: ĐẤT NƯỚC VÀ CON NGƯỜI
-
-### Bài 1: Chuyện của hồ Gươm
-
-Giới thiệu sự tích Hồ Gươm, rùa vàng và vẻ đẹp của thủ đô Hà Nội.
-
-### Bài 2: Tre ngà
-
-Câu chuyện về Thánh Gióng đánh giặc bằng lũy tre.
-
-### Bài 3: Cây đa Tân Trào
-
-Giới thiệu di tích lịch sử gắn liền với kháng chiến.
-
-### Bài 4: Ruộng bậc thang ở Sa Pa
-
-Mô tả vẻ đẹp kì vĩ của những thửa ruộng vùng cao.
-
----
-
-## CÁC HOẠT ĐỘNG BỔ TRỢ TRONG TẬP 2
-
-### Luyện viết đoạn
-
-Học sinh bắt đầu tập viết các đoạn văn ngắn (2-3 câu) kể về gia đình, bạn bè hoặc con vật yêu thích.
-
-### Góc sáng tạo
-
-- Làm bưu thiếp tặng mẹ
-- Vẽ tranh trường học
-- Trang trí thời khóa biểu
-
-### Đọc mở rộng
-
-Khuyến khích học sinh tìm đọc các cuốn sách truyện thiếu nhi khác để tăng tốc độ đọc trơn.
-
----
-
-## YÊU CẦU ĐẠT ĐƯỢC SAU TẬP 2
-
-- **Tốc độ đọc:** Tối thiểu 60 - 80 tiếng/phút
-- **Hiểu biết nội dung:** Hiểu được nội dung chính và trả lời được các câu hỏi liên quan đến bài đọc
-- **Viết chính tả:** Viết đúng chính tả các đoạn văn, đoạn thơ ngắn (nghe - viết)
+Thuyết trình: Giới thiệu ngắn gọn về bản thân hoặc một món đồ chơi yêu thích trước lớp

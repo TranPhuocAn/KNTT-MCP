@@ -1,97 +1,115 @@
-# Khối 2 – Tiếng Anh: Tổng quan
+Unit 1 – At my birthday party
+Phonics: Letter Pp /p/
 
-## Unit 1 – At my birthday party
+Vocabulary: popcorn, pasta, pizza
 
-- **Phonics:** p /p/
-- **Vocabulary:** popcorn, pasta, pizza
-- **Pattern sentences:** I like popcorn.
+Pattern: I like popcorn.
 
-## Unit 2 – In the backyard
+Unit 2 – In the backyard
+Phonics: Letter Rr /r/
 
-- **Phonics:** r /r/
-- **Vocabulary:** riding, running, river, rainbow
-- **Pattern sentences:** He's/She's riding.
+Vocabulary: riding, running, river, rainbow
 
-## Unit 3 – At the seaside
+Pattern: He’s/She’s riding.
 
-- **Phonics:** s /s/
-- **Vocabulary:** sea, sand, sun, sail
-- **Pattern sentences:** Look at the sea.
+Unit 3 – At the seaside
+Phonics: Letter Ss /s/
 
-## Unit 4 – In the countryside
+Vocabulary: sea, sand, sun, sail
 
-- **Phonics:** t /t/
-- **Vocabulary:** tea, tree, tiger, tent
-- **Pattern sentences:** There's a tent.
+Pattern: Look at the sea.
 
-## Unit 5 – In the classroom
+Unit 4 – In the countryside
+Phonics: Letter Tt /t/
 
-- **Phonics:** u /ʌ/
-- **Vocabulary:** up, sun, bus, truck
-- **Pattern sentences:** Put your hand up.
+Vocabulary: tea, tree, tiger, tent
 
-## Unit 6 – On the farm
+Pattern: There's a tent.
 
-- **Phonics:** v /v/
-- **Vocabulary:** van, vegetables, village, volleyball
-- **Pattern sentences:** He's/She's driving a van.
+Unit 5 – In the classroom
+Phonics: Letter Uu /ʌ/
 
-## Unit 7 – In the kitchen
+Vocabulary: up, sun, bus, truck
 
-- **Phonics:** w /w/
-- **Vocabulary:** water, washing, window, watching
-- **Pattern sentences:** He's/She's washing the vegetables.
+Pattern: Put your hand up.
 
-## Unit 8 – In the village
+Review 1 & Fun time 1 (Units 1 - 5)
+Unit 6 – On the farm
+Phonics: Letter Vv /v/
 
-- **Phonics:** x /ks/
-- **Vocabulary:** ox, box, fox, six
-- **Pattern sentences:** I can see an ox.
+Vocabulary: van, vegetables, village, volleyball
 
-## Unit 9 – In the grocery store
+Pattern: He’s/She’s driving a van.
 
-- **Phonics:** y /j/
-- **Vocabulary:** yams, yogurt, yo-yo
-- **Pattern sentences:** Do you like yams? - Yes, I do. / No, I don't.
+Unit 7 – In the kitchen
+Phonics: Letter Ww /w/
 
-## Unit 10 – At the zoo
+Vocabulary: water, washing, window, watching
 
-- **Phonics:** z /z/
-- **Vocabulary:** zebu, zebra, zoo, zither
-- **Pattern sentences:** What can you see? - I can see a zebra.
+Pattern: He's/She's washing the vegetables.
 
-## Unit 11 – At the playground
+Unit 8 – In the village
+Phonics: Letter Xx /ks/
 
-- **Phonics:** i /aɪ/
-- **Vocabulary:** riding, sliding, driving, flying
-- **Pattern sentences:** What are you doing? - I'm riding a bike.
+Vocabulary: ox, box, fox, six
 
-## Unit 12 – At the lakeside
+Pattern: I can see an ox.
 
-- **Phonics:** o /əʊ/
-- **Vocabulary:** boat, coat, goat, road
-- **Pattern sentences:** He's/She's wearing a coat.
+Unit 9 – In the grocery store
+Phonics: Letter Yy /j/
 
-## Unit 13 – In the school garden
+Vocabulary: yams, yogurt, yo-yo
 
-- **Phonics:** i /ɪ/
-- **Vocabulary:** bins, chips, fish, milk
-- **Pattern sentences:** There's some milk.
+Pattern: Do you like yams? – Yes, I do. / No, I don't.
 
-## Unit 14 – At the toy shop
+Unit 10 – At the zoo
+Phonics: Letter Zz /z/
 
-- **Phonics:** o /ɒ/
-- **Vocabulary:** box, clock, dog, doll
-- **Pattern sentences:** Where's the doll? - It's in/on the box.
+Vocabulary: zebu, zebra, zoo, zither
 
-## Unit 15 – At the dining table
+Pattern: What can you see? – I can see a zebra.
 
-- **Phonics:** u /uː/
-- **Vocabulary:** juice, fruit, soup, food
-- **Pattern sentences:** Would you like some juice? - Yes, please.
+Review 2 & Fun time 2 (Units 6 - 10)
+Unit 11 – At the playground
+Phonics: Diphthong i_e /aɪ/
 
-## Unit 16 – At the campsite
+Vocabulary: riding, sliding, driving, flying
 
-- **Phonics:** a /eɪ/
-- **Vocabulary:** cake, lake, grapes, gate
-- **Pattern sentences:** I'm eating grapes.
+Pattern: What are you doing? – I'm riding a bike.
+
+Unit 12 – At the lakeside
+Phonics: Diphthong oa /əʊ/
+
+Vocabulary: boat, coat, goat, road
+
+Pattern: He’s/She’s wearing a coat.
+
+Unit 13 – In the school garden
+Phonics: Short i /ɪ/
+
+Vocabulary: bins, chips, fish, milk
+
+Pattern: There’s some milk.
+
+Unit 14 – At the toy shop
+Phonics: Short o /ɒ/
+
+Vocabulary: box, clock, dog, doll
+
+Pattern: Where’s the doll? – It’s in/on the box.
+
+Unit 15 – At the dining table
+Phonics: Digraph ui/ou /uː/
+
+Vocabulary: juice, fruit, soup, food
+
+Pattern: Would you like some juice? – Yes, please. / No, thanks.
+
+Unit 16 – At the campsite
+Phonics: Diphthong a_e /eɪ/
+
+Vocabulary: cake, lake, grapes, gate
+
+Pattern: I’m eating grapes.
+
+Review 3 & Fun time 3 (Units 11 - 16)

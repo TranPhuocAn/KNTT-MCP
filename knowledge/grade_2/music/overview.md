@@ -1,92 +1,91 @@
-# Khối 2 – Âm nhạc: Tổng quan
+CHỦ ĐỀ 1: RỘNG RÀNG NGÀY MỚI
+Mục tiêu: Cảm nhận không khí vui tươi của lao động và làm quen với thang âm cơ bản.
 
-## Chủ đề 1 – RỘNG RÀNG NGÀY MỚI
+Hát: Ngày mùa vui (Dân ca Thái, Lời mới: Hoàng Lân).
 
-### Hát: Ngày mùa vui
+Nhạc cụ: Thực hành gõ Thanh phách và Trống nhỏ theo hình tiết tấu.
 
-**Khám phá:** Dân ca Thái (Lời mới: Hoàng Lân)
+Đọc nhạc: Bài số 1 (Nốt Đô - Rê - Mi - Pha - Son).
 
-**Nội dung:** Ca ngợi không khí vui tươi, ấm no của ngày mùa trên bản làng.
+Vận dụng – Sáng tạo: Gõ đệm và vận động minh họa cho bài hát.
 
-**Hoạt động:**
+CHỦ ĐỀ 2: NHỊP ĐIỆU BẠN BÈ
+Mục tiêu: Thắt chặt tình bạn thông qua các điệu múa dân gian và tìm hiểu nhạc cụ dân tộc.
 
-- Tập hát theo từng câu
-- Hát kết hợp vỗ tay theo phách
-- Vận động phụ họa đơn giản theo nhịp điệu
+Hát: Múa sạp (Dân ca Thái).
 
-### Nhạc cụ
+Thường thức âm nhạc: Tìm hiểu nhạc cụ gõ dân tộc: Sênh tiền và Song loan.
 
-**Kiến thức:** Cách sử dụng Thanh phách và Trống nhỏ
+Nghe nhạc: Ước mơ thần tiên (Trần Thanh Tùng).
 
-**Hoạt động:**
+Vận dụng – Sáng tạo: Trò chơi âm nhạc "Nghe tiếng gõ đoán tên nhạc cụ".
 
-- Gõ đệm cho bài hát Ngày mùa vui theo mẫu tiết tấu
-- Thực hiện trò chơi "Tiếng gõ nhịp nhàng"
+CHỦ ĐỀ 3: VUI ĐẾN TRƯỜNG
+Mục tiêu: Thể hiện niềm hạnh phúc khi đi học và làm quen với bộ gõ cơ thể.
 
-### Đọc nhạc: Bài số 1
+Hát: Trên con đường đến trường (Ngô Ngọc Báu).
 
-**Kiến thức:** Luyện tập các nốt Đô - Rê - Mi - Pha - Son
+Nhạc cụ: Ứng dụng Vận động cơ thể (Body Percussion): Vỗ tay, vỗ đùi, dậm chân.
 
-**Hoạt động:**
+Đọc nhạc: Bài số 2.
 
-- Đọc tên nốt nhạc theo bậc thang cao độ
-- Kết hợp đọc nhạc với kí hiệu bàn tay
+Vận dụng – Sáng tạo: Tạo ra các mẫu tiết tấu bằng âm thanh của đôi bàn tay và bàn chân.
 
----
+CHỦ ĐỀ 4: ĐOÀN KẾT YÊU THƯƠNG
+Mục tiêu: Giáo dục lòng nhân ái và tinh thần đoàn kết qua âm nhạc thế giới.
 
-## Chủ đề 2 – NHỊP ĐIỆU BẠN BÈ
+Hát: Chúc mừng sinh nhật (Nhạc Anh).
 
-### Hát: Múa sạp
+Thường thức âm nhạc: Tìm hiểu về câu chuyện âm nhạc: Cá heo với âm nhạc.
 
-**Khám phá:** Dân ca Thái
+Nghe nhạc: Chúng em là học sinh lớp 2.
 
-Bài hát mô tả điệu múa truyền thống đặc sắc của đồng bào dân tộc Thái.
+Vận dụng – Sáng tạo: Hát kết hợp vận động nhịp nhàng theo nhịp 3/4.
 
-### Thường thức âm nhạc: Tìm hiểu nhạc cụ gõ dân tộc
+CHỦ ĐỀ 5: MÙA XUÂN
+Mục tiêu: Đón không khí Tết và làm quen với nhạc cụ gõ phương Tây.
 
-**Kiến thức:** Giới thiệu về Sênh tiền và Song loan
+Hát: Hoa lá mùa xuân (Hoàng Hà).
 
-**Hoạt động:**
+Nhạc cụ: Làm quen và gõ Ma-ra-cát (Maracas).
 
-- Nghe âm thanh và phân biệt đặc điểm của hai loại nhạc cụ này
+Đọc nhạc: Bài số 3.
 
----
+Vận dụng – Sáng tạo: Vẽ tranh minh họa cho nội dung bài hát "Hoa lá mùa xuân".
 
-## Chủ đề 5 – MÙA XUÂN
+CHỦ ĐỀ 6: GIA ĐÌNH YÊU THƯƠNG
+Mục tiêu: Bày tỏ lòng biết ơn cha mẹ và tìm hiểu về danh nhân âm nhạc Việt Nam.
 
-### Hát: Hoa lá mùa xuân
+Hát: Mẹ đi vắng (Trịnh Công Sơn).
 
-**Khám phá:** Nhạc và lời của nhạc sĩ Hoàng Hà
+Thường thức âm nhạc: Giới thiệu nhạc sĩ Lưu Hữu Phước – tác giả của những bài hành khúc thiếu nhi bất hủ.
 
-**Nội dung:** Niềm vui của cây cối, hoa lá khi mùa xuân về, trẻ em hát ca mừng xuân
+Nghe nhạc: Chỉ có một trên đời (Trương Quang Lục).
 
-### Nhạc cụ: Ma-ra-cát (Maracas)
+Vận dụng – Sáng tạo: Đọc thơ hoặc kể chuyện về mẹ trên nền nhạc không lời.
 
-**Hoạt động:**
+CHỦ ĐỀ 7: THIÊN NHIÊN TƯƠI ĐẸP
+Mục tiêu: Khám phá thế giới động vật xanh mát qua giai điệu.
 
-- Làm quen với âm thanh của Ma-ra-cát (lục lạc)
-- Thực hành gõ đệm theo hình tiết tấu: Ti-ti Ta Ti-ti Ta
+Hát: Chim chích bông (Nhạc: Văn Dung; Thơ: Nguyễn Viết Bình).
 
----
+Nhạc cụ: Ôn tập gõ Thanh phách, Trống nhỏ và Maracas theo nhóm.
 
-## Chủ đề 6 – GIA ĐÌNH YÊU THƯƠNG
+Đọc nhạc: Bài số 4.
 
-### Thường thức âm nhạc: Nhạc sĩ Lưu Hữu Phước
+Vận dụng – Sáng tạo: Bắt chước tiếng chim hót và điệu bộ của các con vật trong bài hát.
 
-**Kiến thức:** Tìm hiểu về cuộc đời và sự nghiệp của nhạc sĩ Lưu Hữu Phước – tác giả của nhiều bài hát thiếu nhi nổi tiếng như Reo vang bình minh, Thiếu nhi thế giới liên hoan
+CHỦ ĐỀ 8: VUI ĐÓN HÈ
+Mục tiêu: Tạo tâm thế phấn khởi cho kì nghỉ hè và tổng kết kiến thức.
 
-### Nghe nhạc: Chỉ có một trên đời
+Hát: Dàn đồng ca mùa hạ (Nhạc: Lê Minh Trị; Thơ: Nguyễn Minh Nguyên).
 
-**Khám phá:** Nhạc sĩ Trương Quang Lục
+Thường thức âm nhạc: Nhận biết một số loại nhạc cụ phương Tây cơ bản thông qua hình ảnh và âm thanh.
 
-Bài hát nói về tình yêu vô bờ bến dành cho mẹ
+Nghe nhạc: Mùa hè ước mong.
 
----
+Ôn tập cuối năm: * Biểu diễn liên khúc các bài hát đã học.
 
-## ÔN TẬP CUỐI NĂM
+Đọc nhạc kết hợp ký hiệu bàn tay thành thạo.
 
-### Hoạt động:
-
-- Biểu diễn các bài hát yêu thích trong chương trình
-- Đọc nhạc kết hợp kí hiệu bàn tay từ bài số 1 đến bài số 4
-- Gõ đệm thành thạo các mẫu tiết tấu với nhạc cụ gõ và động tác cơ thể (Body Percussion)
+Thực hành gõ đệm đồng bộ giữa các loại nhạc cụ gõ.

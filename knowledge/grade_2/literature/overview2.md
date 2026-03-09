@@ -1,121 +1,78 @@
-# Khối 2 – Tiếng Việt Tập 2: Nội dung chi tiết
+CHỦ ĐIỂM 6: VẺ ĐẸP QUANH EM
+Mục tiêu: Cảm nhận sự thay đổi kì diệu của đất trời qua các mùa và vẻ đẹp đặc trưng của cỏ cây, hoa lá.
 
-## CHỦ ĐIỂM 6: VẺ ĐẸP QUANH EM
+Bài 1: Chuyện bốn mùa (Truyện: Cuộc trò chuyện của nàng Xuân, Hạ, Thu, Đông về sứ mệnh riêng của mỗi mùa).
 
-### Bài 1: Chuyện bốn mùa
+Bài 2: Đảo quí báu (Truyện: Hành trình khám phá vẻ đẹp hoang sơ và giá trị của thiên nhiên).
 
-**Đọc:** Câu chuyện về cuộc trò chuyện của nàng Xuân, Hạ, Thu, Đông về vẻ đẹp và lợi ích riêng của từng mùa đối với cây cối và con người.
+Bài 3: Mùa lúa chín (Thơ: Hình ảnh cánh đồng vàng óng và niềm vui của ngày mùa).
 
-**Hoạt động:**
+Bài 4: Hoa mai vàng (Văn bản: Biểu tượng của may mắn, sức sống mãnh liệt của miền Nam ngày Tết).
 
-- Trả lời câu hỏi: Mỗi nàng tiên đại diện cho mùa nào và có đặc điểm gì?
-- Luyện từ và câu: Tìm các từ ngữ chỉ thời tiết, các mùa trong năm
-- Viết: Viết chữ hoa N, M
+Luyện tập: Từ ngữ chỉ sự vật, hiện tượng thiên nhiên; Cách dùng dấu phẩy, dấu chấm.
 
-### Bài 4: Hoa mai vàng
+CHỦ ĐIỂM 7: HÀNH TINH XANH CỦA EM
+Mục tiêu: Tìm hiểu về nguồn gốc các loài cây, con vật và xây dựng ý thức bảo vệ môi trường.
 
-**Đọc:** Bài văn tả vẻ đẹp rực rỡ của hoa mai vàng miền Nam mỗi dịp Tết đến xuân về.
+Bài 5: Mai An Tiêm (Sự tích: Nghị lực vượt khó của gia đình Mai An Tiêm và nguồn gốc quả dưa hấu).
 
-**Hoạt động:**
+Bài 6: Thư viện biết đi (Văn bản: Giới thiệu những mô hình thư viện độc đáo trên thế giới).
 
-- Mô tả các bộ phận của hoa mai (cánh hoa, nhụy hoa)
-- Viết đoạn văn ngắn kể về một loài hoa em thích trong dịp Tết
+Bài 7: Hải thượng Lãn Ông (Truyện: Tấm lòng nhân hậu của người thầy thuốc đối với cỏ cây và con người).
 
----
+Bài 8: Lũy tre (Thơ: Hình ảnh cây tre Việt Nam hiên ngang, bền bỉ và gắn bó với làng quê).
 
-## CHỦ ĐIỂM 7: HÀNH TINH XANH CỦA EM
+Luyện tập: Từ ngữ chỉ các bộ phận của cây cối; Cách viết đoạn văn thuật lại một hoạt động bảo vệ môi trường.
 
-### Bài 5: Mai An Tiêm
+CHỦ ĐIỂM 8: CON NGƯỜI VIỆT NAM
+Mục tiêu: Bồi đắp niềm tự hào về trí tuệ, lòng dũng cảm và các phẩm chất tốt đẹp của người Việt.
 
-**Đọc:** Sự tích về quả dưa hấu và nghị lực của gia đình Mai An Tiêm khi bị đày ra đảo hoang.
+Bài 9: Bước vào thế giới loài vật (Văn bản: Khám phá những điều thú vị về đời sống muông thú).
 
-**Hoạt động:**
+Bài 10: Khủng long (Văn bản: Tìm hiểu về loài vật khổng lồ đã tuyệt chủng và các hóa thạch).
 
-- Kể lại câu chuyện dựa trên tranh minh họa
-- Thảo luận về đức tính kiên trì, chăm chỉ của Mai An Tiêm
+Bài 11: Sự tích cây vú sữa (Truyện: Bài học sâu sắc về lòng hiếu thảo và sự hối hận của người con).
 
-### Bài 8: Lũy tre
+Bài 12: Bờ tre đón khách (Thơ: Sự hiếu khách, chân tình của vạn vật nơi làng quê yên bình).
 
-**Đọc:** Bài thơ tả vẻ đẹp của lũy tre làng xanh mát, gần gũi và âm thanh rì rào của lá tre.
+Luyện tập: Từ ngữ chỉ phẩm chất; Cách đặt câu cảm, câu cầu khiến.
 
-**Hoạt động:**
+CHỦ ĐIỂM 9: VIỆT NAM QUÊ HƯƠNG EM
+Mục tiêu: Giới thiệu những cảnh đẹp, nghề truyền thống và tình cảm gắn bó với nơi chôn rau cắt rốn.
 
-- Tìm những từ ngữ gợi tả âm thanh, màu sắc trong bài thơ
-- Luyện viết đoạn: Viết về một cảnh đẹp thiên nhiên mà em đã được thấy
+Bài 13: Tiếng chổi tre (Thơ: Sự biết ơn đối với những người lao động thầm lặng giữ sạch đường phố).
 
----
+Bài 14: Cỏ non cười (Truyện: Ý thức giữ gìn cảnh quan nơi công cộng của các bạn nhỏ).
 
-## CHỦ ĐIỂM 8: CON NGƯỜI VIỆT NAM
+Bài 15: Những hòn đảo trên vịnh Hạ Long (Văn bản: Vẻ đẹp kì vĩ của di sản thiên nhiên thế giới).
 
-### Bài 10: Khủng long
+Bài 16: Con đường làng (Thơ: Kỉ niệm tuổi thơ gắn liền với hình ảnh con đường đất thân thuộc).
 
-**Đọc:** [Bài học về khủng long]
+Luyện tập: Từ ngữ chỉ đặc điểm cảnh vật; Cách viết đoạn văn giới thiệu một cảnh đẹp quê hương.
 
-**Hoạt động:**
+CHỦ ĐIỂM 10: THẾ GIỚI TRONG MẮT EM
+Mục tiêu: Mở rộng tầm nhìn ra thế giới qua sự phát triển của công nghệ và những kỳ quan mới lạ.
 
-- Tìm hiểu về khủng long và đặc điểm của chúng
-- Luyện từ và câu: Từ chỉ các loài vật cổ xưa
+Bài 17: Cây đa quê hương (Văn bản: Biểu tượng văn hóa làng xã và sức sống bền bỉ của người Việt).
 
-### Bài 12: Bờ tre đón khách
+Bài 18: Mai An Tiêm (Tiếp) (Ôn tập/Củng cố cốt truyện và bài học về lao động).
 
-**Đọc:** Bài văn tả cảnh bờ tre quê hương vào mùa thu, không khí yên tĩnh và lịch sự của đón tiếp khách.
+Bài 19: Chuyện quả bầu (Sự tích: Giải thích về nguồn gốc các dân tộc anh em trên đất nước Việt Nam).
 
-**Hoạt động:**
+Bài 20: Từ chú bồ câu đến Internet (Văn bản: Lịch sử các phương tiện truyền thông từ thô sơ đến hiện đại).
 
-- Mô tả cảnh tượng bờ tre trong bài
-- Viết đoạn văn về cách đón khách tại nhà em
+Luyện tập: Từ ngữ chỉ đồ dùng công nghệ; Kỹ năng viết tin nhắn, email đơn giản.
 
----
+TỔNG KẾT KỸ NĂNG SAU TẬP 2
+1. Đọc và Hiểu
+Tốc độ: Đọc trôi chảy với tốc độ 80 – 100 tiếng/phút.
 
-## CHỦ ĐIỂM 9: VIỆT NAM QUÊ HƯƠNG EM
+Hiểu: Nhận diện được các kiểu văn bản khác nhau (truyện, thơ, văn bản thông tin). Nhận ra thông điệp bảo vệ môi trường và yêu quê hương.
 
-### Bài 13: Tiếng chổi tre
+2. Viết và Ngôn ngữ
+Chính tả: Viết đúng các chữ hoa khó (N, M, P, Q, R, S, T...).
 
-**Đọc:** Bài thơ về âm thanh của chổi tre quét lá rơi, gợi lên cảm xúc yên bình, hoài niệm.
+Viết đoạn văn: Biết cách viết đoạn văn kể về một sự việc, giới thiệu một đồ vật hoặc tả ngắn về một loài cây (3 – 5 câu).
 
-**Hoạt động:**
-
-- Tìm những từ ngữ lạc quan, thờ ơ trong bài thơ
-- Luyện viết: Viết về một âm thanh quen thuộc mà em thích
-
-### Bài 16: Con đường làng
-
-**Đọc:** Bài văn tả con đường làng yên tĩnh, đầy cây xanh và những kỷ niệm đẹp của trẻ em trên đường làng.
-
-**Hoạt động:**
-
-- Kể về những kỷ niệm trên con đường gần nhà em
-- Viết đoạn văn kể về một chuyện vui đã xảy ra ở làng quê
-
----
-
-## CHỦ ĐIỂM 10: THẾ GIỚI TRONG MẮT EM
-
-### Bài 17: Cây đa quê hương
-
-**Đọc:** Bài thơ ca ngợi cây đa cổ thụ ở quê hương – nơi tạo dựng bóng mát, là điểm tập trung của cả làng.
-
-**Hoạt động:**
-
-- Mô tả vai trò của cây đa trong đời sống làng quê
-- Viết đoạn thơ ngắn kể về một cây lớn em biết
-
-### Bài 20: Từ chú bồ câu đến Internet
-
-**Đọc:** Giới thiệu sự phát triển của các phương thức liên lạc từ xa xưa (chim bồ câu đưa thư) đến hiện đại (điện thoại, máy tính, Internet).
-
-**Hoạt động:**
-
-- Phân biệt các phương thức liên lạc xưa và nay
-- Luyện từ và câu: Sử dụng từ ngữ chỉ đồ dùng điện tử và công nghệ
-
----
-
-## TỔNG KẾT TẬP 2
-
-### Yêu cầu đạt được:
-
-- Tốc độ đọc: 80 - 100 tiếng/phút
-- Hiểu biết: Nắm vững nội dung, chủ đề của mỗi bài đọc
-- Viết: Viết đúng chính tả, viết được các đoạn văn ngắn (3-5 câu) kể về gia đình, quê hương, thiên nhiên
-- Thái độ: Yêu thích đọc sách, tôn trọng tác giả và những giá trị truyền thống
+3. Nói và Nghe
+Kỹ năng: Biết lắng nghe và phản hồi ý kiến của bạn một cách lịch sự. Kể lại được những mẩu chuyện lịch sử hoặc danh nhân đơn giản.
