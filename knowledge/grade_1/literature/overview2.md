@@ -1,6 +1,3 @@
-Chào bạn, đây là bản hoàn thiện và chi tiết nhất cho môn Tiếng Việt lớp 1 – Tập 2 (Bộ Kết nối tri thức với cuộc sống). Mình đã bổ sung đầy đủ các bài đọc còn thiếu trong các hệ thống chủ điểm và sắp xếp lại để bạn có một bản overview.md chuẩn chỉnh, sẵn sàng cho việc lưu trữ và tra cứu.
-
-Grade 1 – Vietnamese (Volume 2): Full Curriculum Overview
 CHỦ ĐIỂM 1: TÔI VÀ CÁC BẠN
 Mục tiêu: Giúp học sinh làm quen với môi trường tập thể, biết chia sẻ và trân trọng tình bạn.
 

@@ -1,86 +1,91 @@
-# Khối 3 – Âm nhạc: Tổng quan
+CHỦ ĐỀ 1: VUI ĐÓN XUÂN
+Mục tiêu: Cảm nhận không khí tết rộn ràng và học cách giữ nhịp cơ bản.
 
-## CHỦ ĐỀ 1: LỄ HỘI ÂM THANH
+Hát: Em yêu giờ học hát (Nhạc và lời: Đỗ Anh Hùng).
 
-### Hát: Múa lân
+Nhạc cụ: Thực hành gõ Thanh phách và Song loan theo hình tiết tấu nốt Đen và nốt Móc đơn.
 
-**Tác giả:** Nhạc và lời của Việt Anh
+Đọc nhạc: Bài số 1 (Nốt Đô - Rê - Mi).
 
-**Nội dung:** Miêu tả không khí rộn ràng, vui tươi của tiếng trống lân trong ngày lễ hội.
+Vận dụng – Sáng tạo: Gõ đệm cho bài hát theo phách và nhịp.
 
-**Hoạt động:**
+CHỦ ĐỀ 2: GIA ĐÌNH YÊU THƯƠNG
+Mục tiêu: Thể hiện tình cảm với người thân qua giai điệu êm ái.
 
-- Hát kết hợp gõ đệm theo nhịp
-- Vận động phụ họa (mô phỏng động tác múa lân)
+Hát: Mẹ ơi có biết (Nhạc và lời: Nguyễn Văn Chung).
 
-### Đọc nhạc: Bài số 1
+Thường thức âm nhạc: Tìm hiểu nhạc cụ: Đàn Bầu (Nhạc cụ truyền thống độc đáo của Việt Nam).
 
-**Kiến thức:** Luyện tập các nốt Đô - Rê - Mi - Pha - Son
+Nghe nhạc: Ba ngọn nến lung linh.
 
-**Kỹ năng:**
+Vận dụng – Sáng tạo: Thể hiện động tác tay theo nhịp điệu bài hát (Body Percussion).
 
-- Đọc đúng cao độ, trường độ nốt đen, nốt trắng
-- Kết hợp ký hiệu bàn tay
+CHỦ ĐỀ 3: MÁI TRƯỜNG TUỔI THƠ
+Mục tiêu: Gắn kết tình bạn và lòng biết ơn thầy cô.
 
----
+Hát: Em yêu trường em (Nhạc và lời: Hoàng Vân).
 
-## CHỦ ĐỀ 2: EM YÊU THIÊN NHIÊN
+Nhạc cụ: Làm quen và thực hành gõ Trống nhỏ theo tiết tấu nốt Đen và dấu lặng đen.
 
-### Hát: Con chim chích choè
+Đọc nhạc: Bài số 2 (Nốt Đô - Rê - Mi - Pha - Son).
 
-**Tác giả:** Nhạc của Phan Trần Bảng (theo đồng dao)
+Vận dụng – Sáng tạo: Trò chơi "Ai nhanh hơn" nhận biết tên nốt nhạc trên khuông.
 
-**Nội dung:** Bài hát vui nhộn về hình ảnh con chim chích choè lém lỉnh
+CHỦ ĐỀ 4: VÒNG TAY BẠN BÈ
+Mục tiêu: Khám phá âm nhạc đa quốc gia và tinh thần đoàn kết.
 
-### Nhạc cụ gõ
+Hát: Múa lân (Nhạc và lời: Lê Thương).
 
-**Thực hành:** Sử dụng Song loan và Thanh phách để gõ đệm theo các hình tiết tấu phức tạp hơn so với lớp 2
+Thường thức âm nhạc: Câu chuyện âm nhạc: Tiếng đàn Thạch Sanh.
 
----
+Nghe nhạc: Tình bạn mến thương.
 
-## CHỦ ĐỀ 4: VÒNG TAY BẠN BÈ
+Vận dụng – Sáng tạo: Vận động cơ thể phù hợp với nhịp điệu 2/4.
 
-### Hát: Lớp chúng ta đoàn kết
+CHỦ ĐỀ 5: THIÊN NHIÊN TƯƠI ĐẸP
+Mục tiêu: Cảm nhận vẻ đẹp thiên nhiên qua các âm thanh trong sáng.
 
-**Tác giả:** Nhạc sĩ Mộng Lân
+Hát: Chim sáo (Dân ca Khmer Nam Bộ).
 
-**Nội dung:** Ngợi ca tình bạn thân thiết, gắn bó dưới mái trường
+Nhạc cụ: Thực hành gõ Ma-ra-cát (Maracas) phối hợp cùng Thanh phách.
 
-### Thường thức âm nhạc: Nhạc sĩ Đỗ Nhuận
+Đọc nhạc: Bài số 3 (Nốt Đô - Rê - Mi - Pha - Son - La).
 
-**Kiến thức:** Giới thiệu về nhạc sĩ Đỗ Nhuận – một trong những nhạc sĩ lớn của nền âm nhạc hiện đại Việt Nam, tác giả bài hát Hành quân xa
+Vận dụng – Sáng tạo: Bắt chước âm thanh của chim hót và gió thổi.
 
----
+CHỦ ĐỀ 6: QUÊ HƯƠNG TƯƠI ĐẸP
+Mục tiêu: Giáo dục lòng yêu quê hương qua các làn điệu dân ca.
 
-## CHỦ ĐỀ 7: ÂM NHẠC QUANH TA
+Hát: Gà gáy (Dân ca Cống, lời mới: Tô Ngọc Thanh).
 
-### Thường thức âm nhạc: Nhạc cụ phương Tây
+Thường thức âm nhạc: Tìm hiểu về nhạc sĩ Văn Cao và bài Tiến quân ca (Quốc ca Việt Nam).
 
-**Kiến thức:** Làm quen với hình dáng và âm thanh của các nhạc cụ:
+Nghe nhạc: Quê hương tươi đẹp.
 
-- Đàn Vi-ô-lông (Violin)
-- Đàn Cello
+Vận dụng – Sáng tạo: Đóng vai làm chỉ huy dàn nhạc cho bài hát.
 
----
+CHỦ ĐỀ 7: THẾ GIỚI ÂM NHẠC
+Mục tiêu: Làm quen với các nhạc cụ phương Tây hiện đại.
 
-## TỔNG KẾT KỸ NĂNG CẦN ĐẠT (LỚP 3)
+Hát: Lớp chúng ta đoàn kết (Nhạc và lời: Mộng Lân).
 
-### Hát
+Nhạc cụ: Tìm hiểu và nghe âm thanh đàn Piano và đàn Organ.
 
-- Hát đúng giai điệu, lời ca
-- Biết hát đơn ca và song ca, tốp ca
+Đọc nhạc: Bài số 4 (Luyện tập các nốt từ Đô đến Si).
 
-### Đọc nhạc
+Vận dụng – Sáng tạo: Sáng tạo các động tác phụ họa cho bài hát về tình bạn.
 
-- Thuộc vị trí các nốt nhạc trên khuông nhạc
-- Đọc được các bài tập đọc nhạc đơn giản ở nhịp $ 2/4 $
+CHỦ ĐỀ 8: VUI ĐÓN HÈ
+Mục tiêu: Tổng kết kỹ năng và tạo hứng khởi cho kì nghỉ hè.
 
-### Nhạc cụ
+Hát: Mùa hè đến (Nhạc và lời: Nguyễn Xuân Khoát).
 
-- Sử dụng thành thạo các nhạc cụ gõ cơ bản
-- Làm quen với cách chơi Đàn Phím (Keyboard/Melodica) hoặc các nhạc cụ giai điệu khác nếu có điều kiện
+Nghe nhạc: Ngày hè vui.
 
-### Nghe nhạc
+Ôn tập cuối năm:
 
-- Biết cảm nhận tính chất âm nhạc (vui tươi, trang nghiêm, nhẹ nhàng)
-- Cảm nhận được các tác phẩm được nghe
+Biểu diễn các bài hát yêu thích theo hình thức đơn ca, song ca hoặc nhóm.
+
+Đọc nhạc kết hợp ký hiệu bàn tay thành thạo từ nốt Đô đến nốt Si.
+
+Gõ đệm nhạc cụ phối hợp nhịp nhàng giữa các nhóm nhạc cụ khác nhau.

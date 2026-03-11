@@ -1,122 +1,69 @@
-# Khối 3 – Hoạt động trải nghiệm: Tổng quan
+CHỦ ĐỀ 1: EM VÀ TRƯỜNG TIỂU HỌC THÂN YÊU
+Mục tiêu: Gắn kết với truyền thống nhà trường và thiết lập vị thế của học sinh lớp 3.
 
-Chương trình được chia thành các chủ đề lớn, mỗi chủ đề gắn với các hoạt động: Sinh hoạt dưới cờ, Hoạt động giáo dục theo chủ đề và Sinh hoạt lớp.
+Tuần 1 - 2: Truyền thống nhà trường: Tìm hiểu lịch sử, các anh hùng hoặc danh nhân mà trường mang tên.
 
----
+Tuần 3 - 4: Xây dựng hình ảnh bản thân: Lập kế hoạch rèn luyện nền nếp học tập; Trang trí lớp học theo chủ đề "Lớp học hạnh phúc".
 
-## CHỦ ĐỀ 1: EM VÀ TRƯỜNG TIỂU HỌC THÂN YÊU
+Hoạt động: Thiết kế "Bảng cam kết thi đua" của tổ/lớp.
 
-**Nội dung:** Tìm hiểu về truyền thống nhà trường và xây dựng hình ảnh bản thân.
+CHỦ ĐỀ 2: KHÁM PHÁ BẢN THÂN
+Mục tiêu: Nhận diện giá trị cá nhân và hình thành kỹ năng tự bảo vệ.
 
-**Hoạt động trọng tâm:**
+Tuần 5 - 6: Sở thích và khả năng: Tổ chức "Ngày hội tài năng" để học sinh tự tin trình diễn điểm mạnh.
 
-- Lập kế hoạch rèn luyện để xứng đáng là học sinh lớp 3
-- Tham gia trang trí lớp học sạch đẹp, thân thiện
-- Thực hiện nền nếp học tập và sinh hoạt tại trường
+Tuần 7 - 8: Chăm sóc bản thân: Thực hành lựa chọn trang phục phù hợp hoàn cảnh; Vệ sinh cá nhân đúng cách.
 
----
+Hoạt động: Vẽ "Sơ đồ sở thích" và chia sẻ trước lớp.
 
-## CHỦ ĐỀ 2: KHÁM PHÁ BẢN THÂN
+CHỦ ĐỀ 3: TRÁCH NHIỆM VỚI BẢN THÂN
+Mục tiêu: Rèn luyện thói quen tự lập và quản lý nguồn lực cá nhân (thời gian, tiền bạc).
 
-**Nội dung:** Nhận diện sở thích, khả năng và rèn luyện sự tự tin.
+Tuần 9 - 10: Giờ nào việc nấy: Thiết lập thời gian biểu khoa học cho việc học tập, vui chơi và giúp đỡ gia đình.
 
-**Hoạt động trọng tâm:**
+Tuần 11 - 12: Ngăn nắp, gọn gàng: Thực hành sắp xếp tủ quần áo, góc học tập.
 
-- Giới thiệu về những điểm mạnh, điểm yếu của bản thân
-- Thực hành các kỹ năng tự bảo vệ và chăm sóc sức khỏe cá nhân
-- Rèn luyện sự tự tin khi nói và biểu diễn trước đám đông
+Tuần 13: Chi tiêu tiết kiệm: Phân biệt "Cần" và "Muốn"; Thực hành nuôi heo đất hoặc làm kế hoạch nhỏ.
 
----
+CHỦ ĐỀ 4: TỰ HÀO VỀ GIA ĐÌNH
+Mục tiêu: Bồi đắp tình cảm gia đình thông qua các hành động sẻ chia thiết thực.
 
-## CHỦ ĐỀ 3: TRÁCH NHIỆM VỚI BẢN THÂN
+Tuần 14 - 15: Truyền thống gia đình: Tìm hiểu về nghề nghiệp, các món ăn truyền thống hoặc thói quen tốt của gia đình.
 
-**Nội dung:** Rèn luyện thói quen ngăn nắp, gọn gàng và quản lý thời gian.
+Tuần 16 - 17: Việc nhà của em: Tự giác làm các việc phù hợp (cắm cơm, lau bàn ghế, trông em).
 
-**Hoạt động trọng tâm:**
+Hoạt động: Làm "Cuốn sổ yêu thương" ghi lại những việc đã làm cho người thân.
 
-- Thiết lập thời gian biểu khoa học cho các hoạt động trong ngày
-- Thực hành sắp xếp góc học tập và đồ dùng cá nhân gọn gàng
-- Học cách chi tiêu tiết kiệm thông qua việc nuôi heo đất hoặc lập kế hoạch mua sắm đồ dùng cần thiết
+CHỦ ĐỀ 5: EM VỚI CỘNG ĐỒNG
+Mục tiêu: Xây dựng văn hóa ứng xử văn minh và lòng biết ơn.
 
----
+Tuần 18 - 19: Ứng xử với hàng xóm: Thực hành chào hỏi, giúp đỡ hàng xóm bằng những việc nhỏ.
 
-## CHỦ ĐỀ 4: TỰ HÀO VỀ GIA ĐÌNH
+Tuần 20 - 21: Hoạt động xã hội: Tham gia phong trào "Nuôi heo đất giúp bạn nghèo" hoặc thăm địa chỉ đỏ.
 
-**Nội dung:** Thể hiện tình yêu thương và trách nhiệm với các thành viên trong gia đình.
+Tuần 22: Nghề nghiệp quanh em: Tìm hiểu các công việc của người dân ở địa phương (nông dân, công nhân, tiểu thương).
 
-**Hoạt động trọng tâm:**
+CHỦ ĐỀ 6: VỆ SINH MÔI TRƯỜNG CẢNH QUAN
+Mục tiêu: Biến nhận thức thành hành động cụ thể để bảo vệ môi trường.
 
-- Tìm hiểu về các ngày kỷ niệm và truyền thống của gia đình
-- Thực hành làm việc nhà phù hợp với lứa tuổi (nấu cơm, quét nhà, tưới cây)
-- Làm quà tặng, bưu thiếp để chúc mừng người thân vào các dịp lễ
+Tuần 23 - 24: Phân loại rác thải: Nhận diện và thực hành phân loại rác hữu cơ, rác tái chế và rác vô cơ.
 
----
+Tuần 25 - 26: Bảo vệ cảnh quan: Tham gia quét dọn đường ngõ, sân trường; Làm đồ dùng học tập từ nhựa tái chế (chai lọ, vỏ hộp).
 
-## CHỦ ĐỀ 5: EM VỚI CỘNG ĐỒNG
+CHỦ ĐỀ 7: PHÒNG TRÁNH HỎA HOẠN, THIÊN TAI VÀ TÌNH HUỐNG NGUY HIỂM
+Mục tiêu: Trang bị kỹ năng sinh tồn trong các tình huống khẩn cấp.
 
-**Nội dung:** Xây dựng mối quan hệ tốt đẹp với hàng xóm và tham gia hoạt động xã hội.
+Tuần 27 - 28: Kỹ năng thoát hiểm: Thực hành dùng khăn ẩm che mũi, đi khom người khi gặp hỏa hoạn.
 
-**Hoạt động trọng tâm:**
+Tuần 29 - 30: Ứng phó thiên tai: Nhận diện biển báo bão, lũ; Ghi nhớ các số điện thoại 113, 114, 115.
 
-- Ứng xử lễ phép, lịch sự với người lớn tuổi và giúp đỡ em nhỏ trong cộng đồng
-- Tham gia các hoạt động thiện nguyện, đền ơn đáp nghĩa tại địa phương
-- Tìm hiểu về các nghề nghiệp phổ biến quanh nơi em sống
+Hoạt động: Diễn tập tình huống "Khi em bị lạc đường" hoặc "Khi gặp hỏa hoạn tại chung cư/trường học".
 
----
+CHỦ ĐỀ 8: MÔI TRƯỜNG XANH - CUỘC SỐNG XANH
+Mục tiêu: Nuôi dưỡng tình yêu thiên nhiên qua trải nghiệm nông nghiệp đơn giản.
 
-## CHỦ ĐỀ 6: VỆ SINH MÔI TRƯỜNG
+Tuần 31 - 32: Trồng và chăm sóc cây: Thực hành gieo hạt, tưới nước, xới đất cho cây xanh trong trường.
 
-**Nội dung:** Bảo vệ cảnh quan thiên nhiên và giảm thiểu rác thải.
+Tuần 33 - 34: Bảo vệ rừng và nguồn nước: Tham gia vẽ tranh cổ động "Vì một hành tinh xanh".
 
-**Hoạt động trọng tâm:**
-
-- Thực hành phân loại rác thải tại nguồn (rác hữu cơ, rác vô cơ, rác tái chế)
-- Tham gia các chiến dịch làm sạch đường làng, ngõ xóm hoặc khuôn viên trường học
-- Tận dụng vật liệu tái chế để làm đồ dùng học tập hoặc đồ chơi
-
----
-
-## CHỦ ĐỀ 7: PHÒNG TRÁNH HỎA HOẠN, THIÊN TAI VÀ TÌNH HUỐNG NGUY HIỂM
-
-**Nội dung:** Trang bị kỹ năng sinh tồn cơ bản.
-
-**Hoạt động trọng tâm:**
-
-- Nhận diện các biển báo nguy hiểm và cảnh báo thiên tai (bão, lũ, sạt lở)
-- Thực hành kỹ năng thoát hiểm khi có hỏa hoạn (dùng khăn ướt bịt mũi, bò sát mặt đất)
-- Tìm hiểu cách gọi các số điện thoại khẩn cấp (113, 114, 115)
-
----
-
-## CHỦ ĐỀ 8: MÔI TRƯỜNG XANH - CUỘC SỐNG XANH
-
-**Nội dung:** Trồng và chăm sóc cây xanh.
-
-**Hoạt động trọng tâm:**
-
-- Tham gia ngày hội trồng cây tại trường hoặc địa phương
-- Học cách chăm sóc cây (tưới nước, bắt sâu, bón phân)
-- Bảo vệ rừng và cây xanh
-
----
-
-## TỔNG KẾT KỸ NĂNG CẦN ĐẠT (LỚP 3)
-
-### Kỹ năng cá nhân:
-
-- Sự tự tin, tư duy độc lập
-- Quản lý thời gian và chi tiêu
-- Chăm sóc sức khỏe cá nhân
-
-### Kỹ năng xã hội:
-
-- Ứng xử lễ phép, lịch sự
-- Tinh thần giúp đỡ, tình thương
-- Tham gia hoạt động cộng đồng
-
-### Kỹ năng thực hành:
-
-- Làm việc nhà đơn giản
-- Phân loại và quản lý rác thải
-- Chăm sóc cây xanh
-- Kỹ năng an toàn cơ bản (thoát hiểm, gọi cấp cứu)
+Tuần 35: Tổng kết: Trưng bày các sản phẩm sáng tạo và trao thưởng "Dũng sĩ xanh".

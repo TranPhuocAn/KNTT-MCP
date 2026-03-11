@@ -1,100 +1,86 @@
 CHỦ ĐỀ 1: AN TOÀN GIAO THÔNG
+Mục tiêu: Hình thành văn hóa giao thông văn minh và kỹ năng tự bảo vệ tại khu vực trường học.
+
 Bài 1: Cổng trường an toàn cho em
-Khám phá – Kết nối: Nhận diện các hành vi an toàn và không an toàn tại khu vực cổng trường khi tan học.
 
-Hoạt động:
+Khám phá: Nhận diện các hành vi đúng (xếp hàng, xuống xe đúng nơi quy định) và sai (tụ tập dưới lòng đường, không đội mũ bảo hiểm).
 
-Quan sát tranh và thảo luận về việc xếp hàng, đưa đón con em tại cổng trường.
-
-Sắm vai thực hành cách đi bộ an toàn từ lớp ra cổng và lên xe của phụ huynh.
+Hoạt động: Sắm vai thực hành tan học an toàn; Vẽ sơ đồ khu vực cổng trường an toàn.
 
 Bài 2: Em học an toàn giao thông
-Khám phá – Kết nối: Hiểu ý nghĩa của một số biển báo giao thông đường bộ cơ bản (biển báo cấm, biển báo nguy hiểm, biển chỉ dẫn).
 
-Hoạt động:
+Khám phá: Phân biệt 3 nhóm biển báo: Biển báo cấm (vòng tròn đỏ), Biển báo nguy hiểm (tam giác vàng), Biển chỉ dẫn (hình vuông/chữ nhật xanh).
 
-Trò chơi "Nhìn hình đoán biển báo".
-
-Thực hành đi bộ qua đường an toàn tại ngã tư có đèn tín hiệu hoặc có vạch kẻ đường.
+Hoạt động: Thực hành qua đường tại ngã tư đèn tín hiệu; Trò chơi "Em là cảnh sát giao thông nhí".
 
 CHỦ ĐỀ 2: EM YÊU TỔ QUỐC VIỆT NAM
+Mục tiêu: Bồi đắp lòng tự hào dân tộc và ý thức trách nhiệm của công dân nhỏ tuổi.
+
 Bài 3: Em yêu Tổ quốc Việt Nam
-Khám phá – Kết nối: Nhận biết các biểu tượng của đất nước (Quốc kỳ, Quốc huy, Quốc ca) và những cảnh đẹp, danh lam thắng cảnh tiêu biểu.
 
-Hoạt động:
+Khám phá: Ý nghĩa thiêng liêng của Quốc kỳ (Cờ đỏ sao vàng), Quốc huy và bài tiến quân ca.
 
-Thực hành nghi thức chào cờ và hát Quốc ca trang nghiêm.
-
-Kể tên các vị anh hùng dân tộc hoặc những thành tựu của Việt Nam mà em biết.
-
-Sưu tầm tranh ảnh về vẻ đẹp của con người và thiên nhiên Việt Nam.
+Hoạt động: Thực hành chào cờ trang nghiêm; Thi kể chuyện về các anh hùng dân tộc (Thánh Gióng, Hai Bà Trưng, Bác Hồ...).
 
 CHỦ ĐỀ 3: HAM HỌC HỎI
+Mục tiêu: Khơi dậy tính hiếu kỳ và xây dựng phương pháp tự học bền vững.
+
 Bài 4: Ham học hỏi
-Khám phá – Kết nối: Hiểu được lợi ích của việc luôn tò mò, khám phá và tìm hiểu thế giới xung quanh.
 
-Hoạt động:
+Khám phá: Tại sao học hỏi giúp em thông minh và thành công hơn?
 
-Chia sẻ về một lĩnh vực em đang tự tìm hiểu (vũ trụ, động vật, lập trình...).
-
-Thảo luận về các cách để học hỏi hiệu quả: đọc sách, đặt câu hỏi "Tại sao?", quan sát thực tế.
+Hoạt động: Thảo luận về vòng tròn tri thức; Thực hành đặt câu hỏi "5W1H" (Ai, Cái gì, Ở đâu, Khi nào, Tại sao, Thế nào) trước một vấn đề mới.
 
 CHỦ ĐỀ 4: GIỮ LỜI HỨA
+Mục tiêu: Xây dựng uy tín cá nhân và lòng tin trong các mối quan hệ.
+
 Bài 5: Giữ lời hứa
-Khám phá – Kết nối: Nhận thức tầm quan trọng của uy tín cá nhân và sự tin tưởng của người khác khi mình giữ lời hứa.
 
-Hoạt động:
+Khám phá: Giá trị của "Một lần bất tín, vạn lần bất tin".
 
-Phân tích các tình huống: Khi nào khó giữ lời hứa và cách xử lý (xin lỗi, hẹn lại).
-
-Thực hành cam kết hoàn thành một nhiệm vụ nhỏ trong tuần.
+Hoạt động: Phân tích tình huống "Lời xin lỗi khi thất hứa"; Cam kết thực hiện "Cây lời hứa" của lớp học.
 
 CHỦ ĐỀ 5: TỰ HÀO VỀ TRUYỀN THỐNG GIA ĐÌNH, DÒNG HỌ
+Mục tiêu: Giúp học sinh hiểu về cội nguồn và tiếp nối các giá trị đạo đức từ thế hệ trước.
+
 Bài 6: Tự hào về truyền thống gia đình, dòng họ
-Khám phá – Kết nối: Tìm hiểu về các truyền thống tốt đẹp của gia đình như: hiếu học, làng nghề, nhân ái.
 
-Hoạt động:
+Khám phá: Tìm hiểu các nghề truyền thống, truyền thống hiếu học hoặc lòng nhân ái của dòng họ mình.
 
-Phỏng vấn ông bà, bố mẹ về lịch sử hoặc những tấm gương trong dòng họ.
-
-Vẽ sơ đồ cây gia đình (Family Tree) và ghi chú những điều em tự hào.
+Hoạt động: Vẽ sơ đồ cây gia đình (Family Tree); Viết một đoạn văn ngắn về một người trong dòng họ mà em ngưỡng mộ nhất.
 
 CHỦ ĐỀ 6: QUAN TÂM HÀNG XÓM LÁNG GIỀNG
+Mục tiêu: Thắt chặt tình làng nghĩa xóm và kỹ năng ứng xử xã hội tại nơi ở.
+
 Bài 7: Quan tâm hàng xóm láng giềng
-Khám phá – Kết nối: Hiểu rõ câu "Bán anh em xa, mua láng giềng gần".
 
-Hoạt động:
+Khám phá: Tại sao cần sống hòa thuận với hàng xóm?
 
-Kể những việc làm thể hiện sự quan tâm: hỏi thăm khi hàng xóm ốm, giúp đỡ trông nhà, không gây ồn ào.
-
-Xử lý tình huống khi gặp hàng xóm cần sự trợ giúp khẩn cấp.
+Hoạt động: Thảo luận các hành động đẹp: chào hỏi người lớn, giúp đỡ khi hàng xóm vắng nhà, giữ yên lặng vào giờ nghỉ.
 
 CHỦ ĐỀ 7: THẤU HIỂU VÀ CHIA SẺ
+Mục tiêu: Nuôi dưỡng lòng trắc ẩn và tinh thần tương thân tương ái.
+
 Bài 8: Thấu hiểu và chia sẻ với những người có hoàn cảnh khó khăn
-Khám phá – Kết nối: Khơi dậy lòng trắc ẩn và sự cảm thông với những người khuyết tật, người già neo đơn, trẻ em mồ côi.
 
-Hoạt động:
+Khám phá: Nhận diện khó khăn của người khuyết tật, trẻ em vùng cao hoặc người già neo đơn.
 
-Thảo luận về cách giúp đỡ phù hợp (không chỉ là vật chất mà còn là tinh thần).
-
-Lên kế hoạch cho một hoạt động thiện nguyện nhỏ tại lớp hoặc khu dân cư.
+Hoạt động: Tham gia phong trào "Nuôi heo đất giúp bạn nghèo"; Thực hành cách giúp đỡ người khiếm thị qua đường.
 
 CHỦ ĐỀ 8: TÔN TRỌNG SỰ KHÁC BIỆT CỦA NGƯỜI KHÁC
+Mục tiêu: Xây dựng môi trường hòa nhập, không kỳ thị và bắt nạt.
+
 Bài 9: Tôn trọng sự khác biệt của người khác
-Khám phá – Kết nối: Hiểu rằng mỗi người là một cá thể duy nhất với ngoại hình, sở thích và văn hóa khác nhau.
 
-Hoạt động:
+Khám phá: Tôn trọng về ngoại hình (béo, gầy, cao, thấp), sở thích và bản sắc văn hóa vùng miền.
 
-Trò chơi "Chúng ta khác biệt nhưng tuyệt vời": Mỗi bạn nêu một điểm riêng biệt của mình.
-
-Thảo luận về việc không trêu chọc, kỳ thị bạn bè vì ngoại hình hay sở thích khác lạ.
+Hoạt động: Trò chơi "Mảnh ghép đa dạng" - Mỗi cá nhân là một mảnh ghép quan trọng của bức tranh lớp học.
 
 CHỦ ĐỀ 9: KIỀM CHẾ CẢM XÚC TIÊU CỰC
+Mục tiêu: Trang bị kỹ năng quản lý cảm xúc (EQ) cơ bản.
+
 Bài 10: Kiềm chế cảm xúc tiêu cực
-Khám phá – Kết nối: Nhận diện cảm xúc khi tức giận, thất vọng hoặc buồn bã và ảnh hưởng của chúng.
 
-Hoạt động:
+Khám phá: Tác hại của sự nóng giận đối với bản thân và người xung quanh.
 
-Thực hành các kỹ thuật hạ nhiệt: hít thở sâu, đếm từ 1 đến 10, nghe nhạc.
-
-Sắm vai giải quyết mâu thuẫn bằng lời nói thay vì hành động thô lỗ.
+Hoạt động: Thực hành "Góc bình yên" - Hít thở sâu và đếm ngược; Viết nhật ký cảm xúc để giải tỏa căng thẳng.

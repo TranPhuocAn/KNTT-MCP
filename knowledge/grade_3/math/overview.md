@@ -1,130 +1,66 @@
-# Khối 3 – Toán: Tổng quan
+CHỦ ĐỀ 1: ÔN TẬP VÀ BỔ SUNG
+Mục tiêu: Củng cố toàn bộ kiến thức lớp 2 và mở rộng phạm vi số lên hàng nghìn.
 
-## HỌC KÌ I (TẬP 1)
+Ôn tập các số đến 1000:
++ Đọc, viết, phân tích cấu tạo số: $352 = 300 + 50 + 2$.
++ So sánh và thứ tự số trên tia số.
 
-### 1. Ôn tập và bổ sung
+Ôn tập phép cộng, phép trừ (phạm vi 1000):
++ Kỹ năng đặt tính và tính có nhớ.
 
-**Ôn tập các số đến 1000:**
+Bảng nhân 2, 5 và Bảng chia 2, 5:
++ Thuộc lòng và phản xạ nhanh các phép tính cơ bản.
++ Tìm thành phần chưa biết: Tìm số hạng, số bị trừ, số trừ.
 
-- Đọc, viết, so sánh và thứ tự số
-- Nhận biết hàng chục, hàng trăm, hàng nghìn
+CHỦ ĐỀ 2: BẢNG NHÂN VÀ BẢNG CHIA (MỚI)
++ Mục tiêu: Xây dựng "kho vũ khí" tính toán thông qua các bảng cửu chương còn lại.
++ Bảng nhân và bảng chia: Học từ 3, 4, 6, 7, 8, 9.
 
-**Ôn tập phép cộng, phép trừ trong phạm vi 1000:**
+Gấp một số lên nhiều lần / Giảm một số đi nhiều lần:
++ Gấp 5 lên 3 lần: $5 \times 3 = 15$.
++ Giảm 15 đi 3 lần: $15 \div 3 = 5$.
++ Bài toán giải bằng hai bước tính: Dạng toán kết hợp giữa cộng/trừ và nhân/chia.
 
-- Đặt tính và thực hiện phép cộng, phép trừ
-- Giải bài toán liên quan đến cộng, trừ
+CHỦ ĐỀ 3: HÌNH HỌC VÀ ĐO LƯỜNG
+Mục tiêu: Nhận diện thế giới thông qua hình khối và các đơn vị đo chuyên sâu.
 
-**Bảng nhân 2, 5 và Bảng chia 2, 5:**
+1. Hình học:
++ Góc và Đơn vị đo góc:
++ Nhận diện Góc vuông và Góc không vuông (Sử dụng Ê-ke).
 
-- Nhớ thuộc lòng các phép nhân, chia
-- Ứng dụng vào giải toán
+Hình tam giác, tứ giác, hình chữ nhật, hình vuông:
++ Đặc điểm về cạnh, đỉnh và góc.
 
----
+Hình tròn:
++ Xác định Tâm (O), Bán kính (r), Đường kính (d).
++ Mối quan hệ: $d = r \times 2$.
++ Khối trụ, khối cầu: (Ôn tập và nhận diện nâng cao).
 
-### 2. Bảng nhân và Bảng chia mới
+2. Đo lường:
++ Độ dài: Làm quen với mm (milimét). Bảng đơn vị: km, m, dm, cm, mm.
++ Khối lượng: Làm quen với g (gam). Hiểu quan hệ: 1 kg = 1000 g.
++ Dung tích: Làm quen với ml (mililít). Hiểu quan hệ: 1 l = 1000 ml.
++ Nhiệt độ: Đọc nhiệt kế theo đơn vị độ C.
 
-**Học thuộc lòng bảng nhân và bảng chia từ 3, 4, 6, 7, 8, 9**
+CHỦ ĐỀ 4: PHÉP NHÂN, PHÉP CHIA TRONG PHẠM VI 1000
+Mục tiêu: Chuyển từ tính nhẩm sang tính viết (đặt tính) với số lớn.
 
-**Phép nhân số có hai, ba chữ số với số có một chữ số:**
+Nhân số có 2, 3 chữ số với số có 1 chữ số:
++ Thực hiện nhân từ phải sang trái (có nhớ hoặc không nhớ).
+Ví dụ: $121 \times 4 = 484$.
 
-- Cách tính: Nhân lần lượt hàng đơn vị, hàng chục, hàng trăm
-- Ví dụ: $ 23 \times 3 = 69 $
-- Ví dụ: $ 124 \times 4 = 496 $
+Chia số có 2, 3 chữ số cho số có 1 chữ số:
++ Thực hiện chia từ trái sang phải.
++ Nhận diện Phép chia hết và Phép chia có dư (Số dư luôn nhỏ hơn số chia).
+Ví dụ: $84 \div 4 = 21$; $17 \div 3 = 5$ dư 2.
 
-**Phép chia số có hai, ba chữ số cho số có một chữ số:**
+CHỦ ĐỀ 5: THỐNG KÊ VÀ XÁC SUẤT
+Mục tiêu: Làm quen với việc xử lý dữ liệu và dự đoán tương lai đơn giản.
 
-- Cách tính: Chia từ hàng cao nhất
-- Ví dụ: $ 84 \div 4 = 21 $
-- Ví dụ: $ 345 \div 3 = 115 $
+Thống kê số liệu:
++ Thu thập, phân loại và ghi chép số liệu vào bảng kiểm đếm.
++ Đọc và phân tích thông tin từ biểu đồ tranh/bảng số liệu.
 
----
-
-### 3. Hình học và Đo lường
-
-#### Hình học:
-
-**Góc:**
-
-- Góc vuông ($ 90° $)
-- Góc không vuông (góc nhọn, góc tù)
-
-**Các hình cơ bản:**
-
-- Hình tam giác (có 3 cạnh, 3 đỉnh, 3 góc)
-- Hình tứ giác (có 4 cạnh, 4 đỉnh, 4 góc)
-- Hình chữ nhật (có 4 góc vuông, các cạnh đối bằng nhau)
-- Hình vuông (có 4 góc vuông, 4 cạnh bằng nhau)
-
-**Hình tròn:**
-
-- Tâm: Điểm ở giữa hình tròn
-- Bán kính: Khoảng cách từ tâm đến một điểm trên đường tròn
-- Đường kính: Đoạn thẳng đi qua tâm và cắt đường tròn tại hai điểm
-
-#### Đo lường:
-
-**Đơn vị đo độ dài:**
-
-- mm (milimét)
-- cm (centimét)
-- dm (đêximét)
-- m (mét)
-- km (kilômét)
-- Quan hệ: 1 m = 10 dm = 100 cm = 1000 mm; 1 km = 1000 m
-
-**Đơn vị khối lượng:**
-
-- g (gam)
-- kg (kilôgam)
-- Quan hệ: 1 kg = 1000 g
-
-**Đơn vị dung tích:**
-
-- ml (milimét)
-- l (lít)
-- Quan hệ: 1 l = 1000 ml
-
-**Đơn vị nhiệt độ:**
-
-- Độ C (độ Celsius)
-- Cách đọc nhiệt độ trên nhiệt kế
-
----
-
-### 4. Các yếu tố thống kê và xác suất
-
-**Thu thập và phân loại dữ liệu:**
-
-- Làm quen với việc thu thập, phân loại, kiểm đếm số liệu
-- Tổ chức dữ liệu thành bảng (bảng tần số đơn giản)
-
-**Khả năng xảy ra của một sự kiện:**
-
-- **Có thể xảy ra:** Sự kiện có cơ hội xảy ra (ví dụ: tung xúc xắc, có thể được 1, 2, 3, 4, 5 hoặc 6)
-- **Chắc chắn xảy ra:** Sự kiện sẽ luôn luôn xảy ra (ví dụ: hôm nay có mặt trời mọc)
-- **Không thể xảy ra:** Sự kiện không bao giờ xảy ra (ví dụ: nước sôi ở nhiệt độ 0°C)
-
----
-
-## TỔNG KẾT KỸ NĂNG CẦN ĐẠT (LỚP 3 - HỌC KÌ I)
-
-### Tính toán:
-
-- Thành thạo bảng nhân, bảng chia từ 2 đến 9
-- Thực hiện phép nhân, chia số có hai, ba chữ số với/cho số có một chữ số
-- Giải bài toán có lời văn liên quan đến nhân, chia
-
-### Hình học:
-
-- Nhận diện các góc, các hình cơ bản (tam giác, tứ giác, chữ nhật, vuông, tròn)
-- Hiểu khái niệm tâm, bán kính, đường kính của hình tròn
-
-### Đo lường:
-
-- Chuyển đổi được các đơn vị đo độ dài, khối lượng, dung tích cơ bản
-- Đọc được nhiệt độ trên nhiệt kế
-
-### Thống kê và xác suất:
-
-- Phân loại và đếm dữ liệu đơn giản
-- Nhận biết khả năng xảy ra của các sự kiện
+Làm quen với khả năng xảy ra của một sự kiện:
++ Sử dụng các cụm từ: Chắc chắn, Có thể, Không thể.
++ Ví dụ: Lấy 1 viên bi đỏ từ túi toàn bi xanh là "Không thể".

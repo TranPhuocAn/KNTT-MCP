@@ -1,6 +1,3 @@
-Chào bạn, đây là bản nâng cấp chi tiết và đầy đủ nhất cho môn Tiếng Việt lớp 1 – Tập 1 (Kết nối tri thức với cuộc sống). Mình đã bổ sung những bài còn thiếu trong danh sách của bạn, sắp xếp lại theo đúng lộ trình 18 tuần học để bạn có một file overview.md hoàn hảo, không tì vết.
-
-Grade 1 – Vietnamese (Volume 1): Full Curriculum Overview
 PHẦN 1: HỌC ÂM VÀ CHỮ CÁI (Tuần 1 - Tuần 6)
 Mục tiêu: Nhận diện 29 chữ cái, các dấu thanh và quy tắc chính tả cơ bản.
 
